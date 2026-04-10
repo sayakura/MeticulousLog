@@ -14,8 +14,9 @@
   },
   "bec20db8-e00d-4199-abe4-5f55432f36aa": {
     "beanId": "47057470-d287-4a5f-bbe3-b97d9309a972",
-    "updatedAt": "2026-04-10T17:01:09.745Z",
+    "updatedAt": "2026-04-10T17:01:12.770Z",
     "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
-    "grindSetting": "1.3"
+    "grindSetting": "1.3",
+    "rating": 5
   }
 }
