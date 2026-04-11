@@ -9,5 +9,16 @@
     "userNotes": "Kinda sweat",
     "createdAt": "2026-04-10T04:26:40.100Z",
     "updatedAt": "2026-04-10T22:11:59.902Z"
+  },
+  {
+    "id": "7f74a282-a723-4323-b0c5-14296036c52c",
+    "name": "Hayes valley",
+    "roaster": "Blue bottle",
+    "roastDate": "2026-03-12",
+    "roastLevel": "medium-dark",
+    "tags": [],
+    "userNotes": "",
+    "createdAt": "2026-04-11T20:37:32.093Z",
+    "updatedAt": "2026-04-11T20:37:32.093Z"
   }
 ]
