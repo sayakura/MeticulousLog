@@ -2,7 +2,10 @@
   {
     "label": "夯",
     "color": "#7a3b3b",
-    "items": [],
+    "items": [
+      "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63",
+      "7f74a282-a723-4323-b0c5-14296036c52c"
+    ],
     "between": []
   },
   {
@@ -16,7 +19,9 @@
   {
     "label": "人上人",
     "color": "#7a6d3b",
-    "items": [],
+    "items": [
+      "47057470-d287-4a5f-bbe3-b97d9309a972"
+    ],
     "between": []
   },
   {
