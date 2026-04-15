@@ -1,7 +1,37 @@
 [
   {
-    "label": "S",
+    "label": "夯",
     "color": "#7a3b3b",
+    "items": [],
+    "between": []
+  },
+  {
+    "label": "顶级",
+    "color": "#7a5c3b",
+    "items": [],
+    "between": []
+  },
+  {
+    "label": "人上人",
+    "color": "#7a6d3b",
+    "items": [],
+    "between": []
+  },
+  {
+    "label": "C",
+    "color": "#6b7340",
+    "items": [],
+    "between": []
+  },
+  {
+    "label": "D",
+    "color": "#3b6b4a",
+    "items": [],
+    "between": []
+  },
+  {
+    "label": "F",
+    "color": "#3b5c7a",
     "items": [],
     "between": []
   }
