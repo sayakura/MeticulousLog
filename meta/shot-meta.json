@@ -65,17 +65,23 @@
   },
   "bef60767-8e24-41d9-a080-bfd4853b29ec": {
     "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63",
-    "updatedAt": "2026-04-15T17:47:04.279Z",
-    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
+    "updatedAt": "2026-04-15T17:48:16.997Z",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "grindSetting": "1.1",
+    "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83"
   },
   "81c2d275-acba-42c8-ac76-3716925610bb": {
     "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63",
-    "updatedAt": "2026-04-15T17:47:03.063Z",
-    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
+    "updatedAt": "2026-04-15T17:48:15.664Z",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "grindSetting": "1.2",
+    "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83"
   },
   "0faa4b09-3ad9-4485-806c-7530e3c2306b": {
     "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63",
-    "updatedAt": "2026-04-15T17:47:01.830Z",
-    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
+    "updatedAt": "2026-04-15T17:48:14.490Z",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "grindSetting": "1.2",
+    "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83"
   }
 }
