@@ -79,9 +79,11 @@
   },
   "0faa4b09-3ad9-4485-806c-7530e3c2306b": {
     "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63",
-    "updatedAt": "2026-04-15T17:48:14.490Z",
+    "updatedAt": "2026-04-15T17:49:43.879Z",
     "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
     "grindSetting": "1.2",
-    "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83"
+    "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83",
+    "rating": 5,
+    "note": "lagom 忘了清残粉 虽说是失败的萃取 但是味道很行"
   }
 }
