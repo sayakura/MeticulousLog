@@ -62,5 +62,20 @@
     "basketId": "2365ce43-b6c5-4310-a29f-35a1ff882757",
     "rating": 10,
     "note": "完璧 shot，蓝莓jam 拉满"
+  },
+  "bef60767-8e24-41d9-a080-bfd4853b29ec": {
+    "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63",
+    "updatedAt": "2026-04-15T17:47:04.279Z",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
+  },
+  "81c2d275-acba-42c8-ac76-3716925610bb": {
+    "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63",
+    "updatedAt": "2026-04-15T17:47:03.063Z",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
+  },
+  "0faa4b09-3ad9-4485-806c-7530e3c2306b": {
+    "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63",
+    "updatedAt": "2026-04-15T17:47:01.830Z",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
   }
 }
