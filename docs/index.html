@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MeticulousLog</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", "PingFang SC", sans-serif;
+      background: #1a1714;
+      color: #e8e0d6;
+      min-height: 100vh;
+      line-height: 1.5;
+    }
+
+    header {
+      padding: 2.5rem 1.5rem 1.5rem;
+      text-align: center;
+      border-bottom: 1px solid #2e2a25;
+    }
+
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: #c9a96e;
+      letter-spacing: 0.02em;
+    }
+
+    header .subtitle {
+      font-size: 0.85rem;
+      color: #8a7e72;
+      margin-top: 0.25rem;
+    }
+
+    main {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 1.5rem 1rem 3rem;
+    }
+
+    .card {
+      background: #23201b;
+      border: 1px solid #2e2a25;
+      border-radius: 10px;
+      padding: 1.25rem;
+      margin-bottom: 1rem;
+      transition: border-color 0.15s;
+    }
+
+    .card:hover { border-color: #4a4035; }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 0.5rem;
+    }
+
+    .card-date {
+      font-size: 0.8rem;
+      color: #8a7e72;
+    }
+
+    .card-profile {
+      font-size: 0.8rem;
+      color: #6b6259;
+      font-style: italic;
+    }
+
+    .rating {
+      display: flex;
+      align-items: center;
+      gap: 2px;
+      margin-bottom: 0.75rem;
+    }
+
+    .rating-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #3a3530;
+    }
+
+    .rating-dot.filled { background: #c9a96e; }
+
+    .rating-num {
+      font-size: 0.75rem;
+      color: #8a7e72;
+      margin-left: 0.4rem;
+    }
+
+    .chart-container {
+      position: relative;
+      margin: 0.5rem 0;
+      background: #1d1a16;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .chart-container svg {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    .chart-legend {
+      display: flex;
+      gap: 1rem;
+      justify-content: flex-end;
+      padding: 0.35rem 0.75rem;
+      font-size: 0.7rem;
+      color: #6b6259;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .legend-swatch {
+      width: 10px;
+      height: 3px;
+      border-radius: 1px;
+    }
+
+    .meta-section {
+      margin-top: 0.75rem;
+      padding-top: 0.65rem;
+      border-top: 1px solid #2e2a25;
+    }
+
+    .bean-badge {
+      display: inline-block;
+      background: #2e2720;
+      border: 1px solid #4a3f30;
+      border-radius: 5px;
+      padding: 0.15rem 0.55rem;
+      font-size: 0.8rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .bean-name { color: #d4b07a; font-weight: 500; }
+    .bean-roaster { color: #8a7e72; margin-left: 0.25rem; }
+
+    .details {
+      font-size: 0.8rem;
+      color: #9a9088;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem 1rem;
+    }
+
+    .detail-item {
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+
+    .detail-icon { font-size: 0.7rem; opacity: 0.6; }
+
+    .note {
+      font-size: 0.85rem;
+      color: #b8ada2;
+      margin-top: 0.5rem;
+      line-height: 1.6;
+    }
+
+    .duration-label {
+      font-size: 0.75rem;
+      color: #6b6259;
+      margin-top: 0.35rem;
+    }
+
+    #loading, #error {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: #8a7e72;
+    }
+
+    #error { color: #c97a6e; }
+
+    @media (max-width: 480px) {
+      header { padding: 2rem 1rem 1rem; }
+      main { padding: 1rem 0.75rem 2rem; }
+      .card-header { flex-direction: column; gap: 0.15rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MeticulousLog</h1>
+    <p class="subtitle">Espresso Shot Journal</p>
+  </header>
+  <main>
+    <div id="loading">Loading shots...</div>
+    <div id="error" hidden></div>
+    <div id="shots"></div>
+  </main>
+  <script>
+    async function load() {
+      const loading = document.getElementById('loading');
+      const errorEl = document.getElementById('error');
+      const shotsEl = document.getElementById('shots');
+
+      try {
+        const res = await fetch('data.json');
+        if (!res.ok) throw new Error('Failed to load data');
+        const { shots } = await res.json();
+        loading.hidden = true;
+
+        shotsEl.innerHTML = shots.map(shot => {
+          const date = formatDate(shot.startedAt);
+          const chart = buildChart(shot.series);
+          const hasMeta = shot.rating != null;
+
+          let ratingHtml = '';
+          if (hasMeta) {
+            const dots = Array.from({ length: 10 }, (_, i) =>
+              `<div class="rating-dot${i < shot.rating ? ' filled' : ''}"></div>`
+            ).join('');
+            ratingHtml = `<div class="rating">${dots}<span class="rating-num">${shot.rating}/10</span></div>`;
+          }
+
+          let metaHtml = '';
+          if (hasMeta) {
+            const parts = [];
+
+            if (shot.bean) {
+              parts.push(`<div class="bean-badge"><span class="bean-name">${esc(shot.bean.name)}</span><span class="bean-roaster">${esc(shot.bean.roaster)}</span></div>`);
+            }
+
+            const detailParts = [];
+            if (shot.grinder) {
+              detailParts.push(`<span class="detail-item"><span class="detail-icon">&#9881;</span> ${esc(shot.grinder.name)}</span>`);
+            }
+            if (shot.grindSetting) {
+              detailParts.push(`<span class="detail-item"><span class="detail-icon">&#8982;</span> ${esc(shot.grindSetting)}</span>`);
+            }
+            if (shot.basket) {
+              detailParts.push(`<span class="detail-item"><span class="detail-icon">&#9716;</span> ${esc(shot.basket.name)}</span>`);
+            }
+
+            const noteHtml = shot.note ? `<div class="note">${esc(shot.note)}</div>` : '';
+
+            metaHtml = `
+              <div class="meta-section">
+                ${parts.join('')}
+                ${detailParts.length ? `<div class="details">${detailParts.join('')}</div>` : ''}
+                ${noteHtml}
+              </div>`;
+          }
+
+          return `
+            <div class="card">
+              <div class="card-header">
+                <span class="card-date">${date}</span>
+                <span class="card-profile">${esc(shot.profile)}</span>
+              </div>
+              ${ratingHtml}
+              <div class="chart-container">
+                <div class="chart-legend">
+                  <span class="legend-item"><span class="legend-swatch" style="background:#c9a96e"></span>pressure</span>
+                  <span class="legend-item"><span class="legend-swatch" style="background:#8bb4d6"></span>weight</span>
+                  <span class="legend-item"><span class="legend-swatch" style="background:#7a9e7a"></span>flow</span>
+                </div>
+                ${chart}
+              </div>
+              <div class="duration-label">${shot.duration.toFixed(0)}s</div>
+              ${metaHtml}
+            </div>`;
+        }).join('');
+
+      } catch (err) {
+        loading.hidden = true;
+        errorEl.hidden = false;
+        errorEl.textContent = err.message;
+      }
+    }
+
+    function buildChart(series) {
+      const W = 600, H = 180, PAD = { top: 12, right: 45, bottom: 22, left: 35 };
+      const plotW = W - PAD.left - PAD.right;
+      const plotH = H - PAD.top - PAD.bottom;
+
+      const times = series.time;
+      if (!times.length) return '';
+
+      const tMax = Math.max(...times);
+      const pMax = Math.max(12, ...series.pressure);
+      const wMax = Math.max(50, ...series.weight);
+      const fMax = Math.max(8, ...series.flow);
+
+      function toX(t) { return PAD.left + (t / tMax) * plotW; }
+      function toYp(v) { return PAD.top + plotH - (v / pMax) * plotH; }
+      function toYw(v) { return PAD.top + plotH - (v / wMax) * plotH; }
+      function toYf(v) { return PAD.top + plotH - (v / fMax) * plotH; }
+
+      function polyline(values, mapY) {
+        return values.map((v, i) => `${toX(times[i]).toFixed(1)},${mapY(v).toFixed(1)}`).join(' ');
+      }
+
+      // Grid lines
+      let grid = '';
+      const gridColor = '#2a2622';
+      // Horizontal grid (pressure scale)
+      for (let p = 0; p <= pMax; p += 3) {
+        const y = toYp(p);
+        grid += `<line x1="${PAD.left}" y1="${y}" x2="${W - PAD.right}" y2="${y}" stroke="${gridColor}" stroke-width="0.5"/>`;
+        grid += `<text x="${PAD.left - 4}" y="${y + 3}" text-anchor="end" fill="#4a4540" font-size="9">${p}</text>`;
+      }
+      // Weight scale labels on right
+      for (let w = 0; w <= wMax; w += 10) {
+        const y = toYw(w);
+        grid += `<text x="${W - PAD.right + 4}" y="${y + 3}" text-anchor="start" fill="#4a4540" font-size="9">${w}g</text>`;
+      }
+      // Time labels
+      const tStep = tMax > 60 ? 20 : tMax > 30 ? 10 : 5;
+      for (let t = 0; t <= tMax; t += tStep) {
+        const x = toX(t);
+        grid += `<line x1="${x}" y1="${PAD.top}" x2="${x}" y2="${H - PAD.bottom}" stroke="${gridColor}" stroke-width="0.5"/>`;
+        grid += `<text x="${x}" y="${H - PAD.bottom + 14}" text-anchor="middle" fill="#4a4540" font-size="9">${t}s</text>`;
+      }
+
+      return `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg">
+        ${grid}
+        <polyline points="${polyline(series.flow, toYf)}" fill="none" stroke="#7a9e7a" stroke-width="1.2" opacity="0.5"/>
+        <polyline points="${polyline(series.weight, toYw)}" fill="none" stroke="#8bb4d6" stroke-width="1.5"/>
+        <polyline points="${polyline(series.pressure, toYp)}" fill="none" stroke="#c9a96e" stroke-width="1.5"/>
+      </svg>`;
+    }
+
+    function formatDate(iso) {
+      if (!iso) return '';
+      const d = new Date(iso);
+      return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })
+        + ' \u00b7 ' + d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false });
+    }
+
+    function esc(str) {
+      if (!str) return '';
+      const d = document.createElement('div');
+      d.textContent = str;
+      return d.innerHTML;
+    }
+
+    load();
+  </script>
+</body>
+</html>
