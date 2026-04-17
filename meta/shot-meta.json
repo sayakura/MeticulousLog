@@ -122,9 +122,11 @@
   },
   "4bffa0f2-bc21-4b51-936f-aa487baa79b2": {
     "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
-    "updatedAt": "2026-04-17T01:31:41.244Z",
+    "updatedAt": "2026-04-17T01:31:49.878Z",
     "grindSetting": "1.1",
     "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83",
-    "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63"
+    "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63",
+    "rating": 5,
+    "note": ""
   }
 }
