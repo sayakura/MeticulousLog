@@ -1,0 +1,7373 @@
+{
+  "id": "d1422995-3111-499d-8a76-b83ff315bfcc",
+  "db_key": 46,
+  "time": 1776448474.726917,
+  "file": "2026-04-17/10:54:34.shot.json.zst",
+  "debug_file": "2026-04-17/10:51:14.shot.json.zst",
+  "name": "Traditional Lever",
+  "data": [
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 2.51,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 0,
+          "flow": 8
+        }
+      },
+      "time": 5,
+      "profile_time": 5,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.22,
+        "external_2": 100.81,
+        "bar_up": 69.88,
+        "bar_mid_up": 87.73,
+        "bar_mid_down": 93.36,
+        "bar_down": 91.12,
+        "tube": 85.52,
+        "motor_temp": 26.98,
+        "lam_temp": 25.44,
+        "motor_position": 34.54,
+        "motor_speed": 5.59,
+        "motor_power": 69.41,
+        "motor_current": 1.84,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 2.51,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 131,
+      "profile_time": 131,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.29,
+        "external_2": 100.85,
+        "bar_up": 69.88,
+        "bar_mid_up": 87.73,
+        "bar_mid_down": 93.13,
+        "bar_down": 91.12,
+        "tube": 85.51,
+        "motor_temp": 26.98,
+        "lam_temp": 25.46,
+        "motor_position": 35.24,
+        "motor_speed": 4.5,
+        "motor_power": 45.74,
+        "motor_current": 1,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 3.05,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 243,
+      "profile_time": 243,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.32,
+        "external_2": 100.85,
+        "bar_up": 69.88,
+        "bar_mid_up": 87.73,
+        "bar_mid_down": 93.36,
+        "bar_down": 91.12,
+        "tube": 85.51,
+        "motor_temp": 26.98,
+        "lam_temp": 25.46,
+        "motor_position": 35.74,
+        "motor_speed": 4.08,
+        "motor_power": 48.37,
+        "motor_current": 1.69,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 3.72,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 384,
+      "profile_time": 384,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.88,
+        "bar_up": 69.88,
+        "bar_mid_up": 87.52,
+        "bar_mid_down": 93.13,
+        "bar_down": 90.9,
+        "tube": 85.47,
+        "motor_temp": 26.98,
+        "lam_temp": 25.49,
+        "motor_position": 36.35,
+        "motor_speed": 4.39,
+        "motor_power": 50.48,
+        "motor_current": 1.67,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 4.4,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 510,
+      "profile_time": 510,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.88,
+        "bar_up": 69.88,
+        "bar_mid_up": 87.52,
+        "bar_mid_down": 93.36,
+        "bar_down": 90.9,
+        "tube": 85.41,
+        "motor_temp": 27.05,
+        "lam_temp": 25.51,
+        "motor_position": 36.85,
+        "motor_speed": 4.23,
+        "motor_power": 53.1,
+        "motor_current": 1.88,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 4.92,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 639,
+      "profile_time": 639,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.92,
+        "bar_up": 69.88,
+        "bar_mid_up": 87.52,
+        "bar_mid_down": 93.13,
+        "bar_down": 90.9,
+        "tube": 85.37,
+        "motor_temp": 27.08,
+        "lam_temp": 25.51,
+        "motor_position": 37.45,
+        "motor_speed": 4.55,
+        "motor_power": 54.88,
+        "motor_current": 1.91,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 5.48,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 771,
+      "profile_time": 771,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.92,
+        "bar_up": 69.88,
+        "bar_mid_up": 87.52,
+        "bar_mid_down": 93.13,
+        "bar_down": 90.9,
+        "tube": 85.37,
+        "motor_temp": 27.1,
+        "lam_temp": 25.53,
+        "motor_position": 38.05,
+        "motor_speed": 4.58,
+        "motor_power": 57.07,
+        "motor_current": 2.03,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 5.84,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 899,
+      "profile_time": 899,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.92,
+        "bar_up": 69.73,
+        "bar_mid_up": 87.32,
+        "bar_mid_down": 93.13,
+        "bar_down": 90.9,
+        "tube": 85.35,
+        "motor_temp": 27.08,
+        "lam_temp": 25.53,
+        "motor_position": 38.65,
+        "motor_speed": 4.87,
+        "motor_power": 58.89,
+        "motor_current": 1.98,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 6.24,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 1029,
+      "profile_time": 1029,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.92,
+        "bar_up": 69.88,
+        "bar_mid_up": 87.32,
+        "bar_mid_down": 93.13,
+        "bar_down": 90.68,
+        "tube": 85.31,
+        "motor_temp": 27.03,
+        "lam_temp": 25.51,
+        "motor_position": 39.16,
+        "motor_speed": 4.96,
+        "motor_power": 50.14,
+        "motor_current": 2.03,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 6.5,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 1144,
+      "profile_time": 1144,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.92,
+        "bar_up": 69.73,
+        "bar_mid_up": 87.32,
+        "bar_mid_down": 92.91,
+        "bar_down": 90.68,
+        "tube": 85.23,
+        "motor_temp": 27.01,
+        "lam_temp": 25.49,
+        "motor_position": 39.46,
+        "motor_speed": 2.18,
+        "motor_power": 12.53,
+        "motor_current": 0.76,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 6.62,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 1266,
+      "profile_time": 1266,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.88,
+        "bar_up": 69.73,
+        "bar_mid_up": 87.32,
+        "bar_mid_down": 93.13,
+        "bar_down": 90.9,
+        "tube": 85.23,
+        "motor_temp": 27.03,
+        "lam_temp": 25.49,
+        "motor_position": 39.56,
+        "motor_speed": 1,
+        "motor_power": 30.74,
+        "motor_current": 1.52,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 7.36,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 1398,
+      "profile_time": 1398,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.88,
+        "bar_up": 69.73,
+        "bar_mid_up": 87.32,
+        "bar_mid_down": 93.13,
+        "bar_down": 90.68,
+        "tube": 85.23,
+        "motor_temp": 27.03,
+        "lam_temp": 25.49,
+        "motor_position": 39.96,
+        "motor_speed": 2.49,
+        "motor_power": 37.44,
+        "motor_current": 1.53,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 7.57,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 1523,
+      "profile_time": 1523,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.88,
+        "bar_up": 69.88,
+        "bar_mid_up": 87.32,
+        "bar_mid_down": 92.91,
+        "bar_down": 90.68,
+        "tube": 85.2,
+        "motor_temp": 27.05,
+        "lam_temp": 25.51,
+        "motor_position": 40.26,
+        "motor_speed": 3.03,
+        "motor_power": 35.94,
+        "motor_current": 1.67,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 7.72,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 1652,
+      "profile_time": 1652,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.92,
+        "bar_up": 69.73,
+        "bar_mid_up": 87.12,
+        "bar_mid_down": 92.91,
+        "bar_down": 90.68,
+        "tube": 85.16,
+        "motor_temp": 27.05,
+        "lam_temp": 25.51,
+        "motor_position": 40.66,
+        "motor_speed": 3.12,
+        "motor_power": 45.24,
+        "motor_current": 1.74,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 7.82,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 1784,
+      "profile_time": 1784,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.92,
+        "bar_up": 69.73,
+        "bar_mid_up": 87.12,
+        "bar_mid_down": 92.91,
+        "bar_down": 90.68,
+        "tube": 85.13,
+        "motor_temp": 27.05,
+        "lam_temp": 25.51,
+        "motor_position": 41.16,
+        "motor_speed": 3.49,
+        "motor_power": 43.97,
+        "motor_current": 1.64,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 7.87,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 1913,
+      "profile_time": 1913,
+      "status": "Fill start",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.92,
+        "bar_up": 69.59,
+        "bar_mid_up": 87.12,
+        "bar_mid_down": 92.91,
+        "bar_down": 90.46,
+        "tube": 85.09,
+        "motor_temp": 27.03,
+        "lam_temp": 25.49,
+        "motor_position": 41.57,
+        "motor_speed": 3.61,
+        "motor_power": 45.49,
+        "motor_current": 1.87,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 7.84,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 2039,
+      "profile_time": 2039,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.95,
+        "bar_up": 69.73,
+        "bar_mid_up": 87.12,
+        "bar_mid_down": 92.91,
+        "bar_down": 90.46,
+        "tube": 85.05,
+        "motor_temp": 26.98,
+        "lam_temp": 25.51,
+        "motor_position": 41.97,
+        "motor_speed": 3.07,
+        "motor_power": 46.7,
+        "motor_current": 1.71,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 7.52,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 2182,
+      "profile_time": 2182,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.39,
+        "external_2": 100.95,
+        "bar_up": 69.73,
+        "bar_mid_up": 87.12,
+        "bar_mid_down": 92.91,
+        "bar_down": 90.46,
+        "tube": 85.04,
+        "motor_temp": 27.03,
+        "lam_temp": 25.53,
+        "motor_position": 42.67,
+        "motor_speed": 4.74,
+        "motor_power": 58.86,
+        "motor_current": 2.11,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 7.14,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 2302,
+      "profile_time": 2302,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.39,
+        "external_2": 100.95,
+        "bar_up": 69.59,
+        "bar_mid_up": 87.12,
+        "bar_mid_down": 92.91,
+        "bar_down": 90.46,
+        "tube": 85.04,
+        "motor_temp": 27.03,
+        "lam_temp": 25.53,
+        "motor_position": 43.17,
+        "motor_speed": 4.67,
+        "motor_power": 60.03,
+        "motor_current": 2.25,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 6.94,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 2435,
+      "profile_time": 2435,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.35,
+        "external_2": 100.92,
+        "bar_up": 69.59,
+        "bar_mid_up": 86.92,
+        "bar_mid_down": 92.68,
+        "bar_down": 90.46,
+        "tube": 85.01,
+        "motor_temp": 27.03,
+        "lam_temp": 25.53,
+        "motor_position": 43.88,
+        "motor_speed": 4.85,
+        "motor_power": 60,
+        "motor_current": 2.12,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 288,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 6.9,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 2556,
+      "profile_time": 2556,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.29,
+        "external_2": 100.92,
+        "bar_up": 69.59,
+        "bar_mid_up": 86.92,
+        "bar_mid_down": 92.68,
+        "bar_down": 90.25,
+        "tube": 84.93,
+        "motor_temp": 27.01,
+        "lam_temp": 25.49,
+        "motor_position": 44.48,
+        "motor_speed": 4.61,
+        "motor_power": 58.99,
+        "motor_current": 2.15,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 288,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 6.91,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 2683,
+      "profile_time": 2683,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.29,
+        "external_2": 100.92,
+        "bar_up": 69.59,
+        "bar_mid_up": 86.92,
+        "bar_mid_down": 92.68,
+        "bar_down": 90.25,
+        "tube": 84.89,
+        "motor_temp": 27.01,
+        "lam_temp": 25.49,
+        "motor_position": 44.98,
+        "motor_speed": 4.61,
+        "motor_power": 57.93,
+        "motor_current": 2.09,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 288,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 6.98,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 2810,
+      "profile_time": 2810,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.29,
+        "external_2": 100.95,
+        "bar_up": 69.59,
+        "bar_mid_up": 86.72,
+        "bar_mid_down": 92.68,
+        "bar_down": 90.25,
+        "tube": 84.86,
+        "motor_temp": 27.03,
+        "lam_temp": 25.51,
+        "motor_position": 45.58,
+        "motor_speed": 4.25,
+        "motor_power": 47.1,
+        "motor_current": 2.18,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 288,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.3,
+        "flow": 6.96,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 2940,
+      "profile_time": 2940,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.25,
+        "external_2": 100.95,
+        "bar_up": 69.59,
+        "bar_mid_up": 86.72,
+        "bar_mid_down": 92.68,
+        "bar_down": 90.25,
+        "tube": 84.83,
+        "motor_temp": 27.05,
+        "lam_temp": 25.51,
+        "motor_position": 45.78,
+        "motor_speed": 2.35,
+        "motor_power": 17.1,
+        "motor_current": 0.69,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 288,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.33,
+        "flow": 6.95,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 3060,
+      "profile_time": 3060,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.22,
+        "external_2": 100.92,
+        "bar_up": 69.45,
+        "bar_mid_up": 86.72,
+        "bar_mid_down": 92.45,
+        "bar_down": 90.03,
+        "tube": 84.77,
+        "motor_temp": 27.05,
+        "lam_temp": 25.51,
+        "motor_position": 45.98,
+        "motor_speed": 1.83,
+        "motor_power": 31.8,
+        "motor_current": 1.61,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 288,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.36,
+        "flow": 6.89,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 3194,
+      "profile_time": 3194,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.22,
+        "external_2": 100.88,
+        "bar_up": 69.45,
+        "bar_mid_up": 86.52,
+        "bar_mid_down": 92.45,
+        "bar_down": 90.03,
+        "tube": 84.72,
+        "motor_temp": 27.05,
+        "lam_temp": 25.49,
+        "motor_position": 46.29,
+        "motor_speed": 2.64,
+        "motor_power": 34.5,
+        "motor_current": 1.73,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 288,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.38,
+        "flow": 6.84,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 3325,
+      "profile_time": 3325,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.22,
+        "external_2": 100.88,
+        "bar_up": 69.45,
+        "bar_mid_up": 86.72,
+        "bar_mid_down": 92.45,
+        "bar_down": 90.03,
+        "tube": 84.69,
+        "motor_temp": 27.05,
+        "lam_temp": 25.51,
+        "motor_position": 46.69,
+        "motor_speed": 3.05,
+        "motor_power": 42.39,
+        "motor_current": 1.92,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 288,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.4,
+        "flow": 7.1,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 3451,
+      "profile_time": 3451,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.22,
+        "external_2": 100.85,
+        "bar_up": 69.45,
+        "bar_mid_up": 86.52,
+        "bar_mid_down": 92.45,
+        "bar_down": 90.03,
+        "tube": 84.64,
+        "motor_temp": 27.05,
+        "lam_temp": 25.53,
+        "motor_position": 46.99,
+        "motor_speed": 2.94,
+        "motor_power": 40.73,
+        "motor_current": 1.95,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.43,
+        "flow": 7.45,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 3583,
+      "profile_time": 3583,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.25,
+        "external_2": 100.85,
+        "bar_up": 69.45,
+        "bar_mid_up": 86.52,
+        "bar_mid_down": 92.45,
+        "bar_down": 90.03,
+        "tube": 84.62,
+        "motor_temp": 27.03,
+        "lam_temp": 25.53,
+        "motor_position": 47.39,
+        "motor_speed": 3.36,
+        "motor_power": 42.34,
+        "motor_current": 1.85,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.48,
+        "flow": 7.61,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 3712,
+      "profile_time": 3712,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.29,
+        "external_2": 100.81,
+        "bar_up": 69.45,
+        "bar_mid_up": 86.52,
+        "bar_mid_down": 92.45,
+        "bar_down": 90.03,
+        "tube": 84.61,
+        "motor_temp": 27.03,
+        "lam_temp": 25.53,
+        "motor_position": 47.89,
+        "motor_speed": 3.45,
+        "motor_power": 42.96,
+        "motor_current": 1.96,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.53,
+        "flow": 7.63,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 3847,
+      "profile_time": 3847,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.29,
+        "external_2": 100.81,
+        "bar_up": 69.45,
+        "bar_mid_up": 86.52,
+        "bar_mid_down": 92.23,
+        "bar_down": 89.82,
+        "tube": 84.58,
+        "motor_temp": 27.03,
+        "lam_temp": 25.51,
+        "motor_position": 48.29,
+        "motor_speed": 3.43,
+        "motor_power": 48.37,
+        "motor_current": 1.99,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.59,
+        "flow": 7.61,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 3986,
+      "profile_time": 3986,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.22,
+        "external_2": 100.85,
+        "bar_up": 69.3,
+        "bar_mid_up": 86.52,
+        "bar_mid_down": 92.23,
+        "bar_down": 89.82,
+        "tube": 84.53,
+        "motor_temp": 27.05,
+        "lam_temp": 25.51,
+        "motor_position": 48.8,
+        "motor_speed": 3.6,
+        "motor_power": 48.39,
+        "motor_current": 2.08,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.65,
+        "flow": 7.55,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 4109,
+      "profile_time": 4109,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.15,
+        "external_2": 100.85,
+        "bar_up": 69.45,
+        "bar_mid_up": 86.32,
+        "bar_mid_down": 92.23,
+        "bar_down": 89.82,
+        "tube": 84.49,
+        "motor_temp": 27.05,
+        "lam_temp": 25.51,
+        "motor_position": 49.2,
+        "motor_speed": 3.58,
+        "motor_power": 49.83,
+        "motor_current": 2.1,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.72,
+        "flow": 7.44,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 4236,
+      "profile_time": 4236,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.15,
+        "external_2": 100.81,
+        "bar_up": 69.45,
+        "bar_mid_up": 86.32,
+        "bar_mid_down": 92.23,
+        "bar_down": 89.82,
+        "tube": 84.48,
+        "motor_temp": 27.05,
+        "lam_temp": 25.51,
+        "motor_position": 49.6,
+        "motor_speed": 3.25,
+        "motor_power": 50.95,
+        "motor_current": 2.16,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.8,
+        "flow": 7.34,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 4369,
+      "profile_time": 4369,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.15,
+        "external_2": 100.81,
+        "bar_up": 69.3,
+        "bar_mid_up": 86.32,
+        "bar_mid_down": 92.23,
+        "bar_down": 89.82,
+        "tube": 84.42,
+        "motor_temp": 27.08,
+        "lam_temp": 25.53,
+        "motor_position": 50.1,
+        "motor_speed": 3.21,
+        "motor_power": 51.67,
+        "motor_current": 1.99,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.87,
+        "flow": 7.31,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 4499,
+      "profile_time": 4499,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.22,
+        "external_2": 100.81,
+        "bar_up": 69.3,
+        "bar_mid_up": 86.32,
+        "bar_mid_down": 92.23,
+        "bar_down": 89.6,
+        "tube": 84.4,
+        "motor_temp": 27.05,
+        "lam_temp": 25.51,
+        "motor_position": 50.5,
+        "motor_speed": 3.43,
+        "motor_power": 45.02,
+        "motor_current": 2.1,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.95,
+        "flow": 7.31,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 4615,
+      "profile_time": 4615,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.22,
+        "external_2": 100.85,
+        "bar_up": 69.3,
+        "bar_mid_up": 86.12,
+        "bar_mid_down": 92,
+        "bar_down": 89.6,
+        "tube": 84.35,
+        "motor_temp": 27.05,
+        "lam_temp": 25.53,
+        "motor_position": 50.9,
+        "motor_speed": 3.49,
+        "motor_power": 49.34,
+        "motor_current": 2.22,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 1.03,
+        "flow": 7.31,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 4747,
+      "profile_time": 4747,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.19,
+        "external_2": 100.81,
+        "bar_up": 69.45,
+        "bar_mid_up": 86.12,
+        "bar_mid_down": 92,
+        "bar_down": 89.6,
+        "tube": 84.33,
+        "motor_temp": 27.05,
+        "lam_temp": 25.53,
+        "motor_position": 51.41,
+        "motor_speed": 3.39,
+        "motor_power": 50.05,
+        "motor_current": 2.19,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 1.11,
+        "flow": 7.27,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 4867,
+      "profile_time": 4867,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.19,
+        "external_2": 100.81,
+        "bar_up": 69.3,
+        "bar_mid_up": 86.12,
+        "bar_mid_down": 92.23,
+        "bar_down": 89.6,
+        "tube": 84.31,
+        "motor_temp": 27.03,
+        "lam_temp": 25.53,
+        "motor_position": 51.81,
+        "motor_speed": 3.21,
+        "motor_power": 51.79,
+        "motor_current": 2.26,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 1.19,
+        "flow": 7.25,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 5002,
+      "profile_time": 5002,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.08,
+        "external_2": 100.75,
+        "bar_up": 69.3,
+        "bar_mid_up": 86.12,
+        "bar_mid_down": 92,
+        "bar_down": 89.6,
+        "tube": 84.29,
+        "motor_temp": 27.05,
+        "lam_temp": 25.56,
+        "motor_position": 52.21,
+        "motor_speed": 3.33,
+        "motor_power": 52.21,
+        "motor_current": 2.28,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 1.29,
+        "flow": 7.23,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "flow",
+          "pressure": 2,
+          "flow": 8
+        }
+      },
+      "time": 5129,
+      "profile_time": 5129,
+      "status": "Fill",
+      "sensors": {
+        "external_1": 101.08,
+        "external_2": 100.71,
+        "bar_up": 69.3,
+        "bar_mid_up": 86.12,
+        "bar_mid_down": 92,
+        "bar_down": 89.6,
+        "tube": 84.28,
+        "motor_temp": 27.03,
+        "lam_temp": 25.53,
+        "motor_position": 52.61,
+        "motor_speed": 3.4,
+        "motor_power": 47.76,
+        "motor_current": 2.16,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 1.39,
+        "flow": 7.28,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 5257,
+      "profile_time": 5257,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 101.02,
+        "external_2": 100.65,
+        "bar_up": 69.16,
+        "bar_mid_up": 85.92,
+        "bar_mid_down": 92,
+        "bar_down": 89.39,
+        "tube": 84.23,
+        "motor_temp": 27.05,
+        "lam_temp": 25.56,
+        "motor_position": 53.11,
+        "motor_speed": 3.54,
+        "motor_power": 52.67,
+        "motor_current": 2.37,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 1.51,
+        "flow": 6.89,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 5389,
+      "profile_time": 5389,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.98,
+        "external_2": 100.65,
+        "bar_up": 69.3,
+        "bar_mid_up": 86.12,
+        "bar_mid_down": 92,
+        "bar_down": 89.39,
+        "tube": 84.21,
+        "motor_temp": 27.05,
+        "lam_temp": 25.53,
+        "motor_position": 53.51,
+        "motor_speed": 3.36,
+        "motor_power": 51.42,
+        "motor_current": 2.34,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 1.64,
+        "flow": 6.54,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 5525,
+      "profile_time": 5525,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.98,
+        "external_2": 100.68,
+        "bar_up": 69.3,
+        "bar_mid_up": 85.92,
+        "bar_mid_down": 92,
+        "bar_down": 89.39,
+        "tube": 84.17,
+        "motor_temp": 27.08,
+        "lam_temp": 25.56,
+        "motor_position": 53.92,
+        "motor_speed": 3.08,
+        "motor_power": 49.48,
+        "motor_current": 2.38,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 1.78,
+        "flow": 6.38,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 5646,
+      "profile_time": 5646,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.98,
+        "external_2": 100.71,
+        "bar_up": 69.3,
+        "bar_mid_up": 85.92,
+        "bar_mid_down": 92,
+        "bar_down": 89.39,
+        "tube": 84.18,
+        "motor_temp": 27.08,
+        "lam_temp": 25.56,
+        "motor_position": 54.32,
+        "motor_speed": 2.75,
+        "motor_power": 47.34,
+        "motor_current": 2.33,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 1.92,
+        "flow": 6.23,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 5768,
+      "profile_time": 5768,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 101.02,
+        "external_2": 100.68,
+        "bar_up": 69.16,
+        "bar_mid_up": 85.92,
+        "bar_mid_down": 92,
+        "bar_down": 89.18,
+        "tube": 84.15,
+        "motor_temp": 27.1,
+        "lam_temp": 25.58,
+        "motor_position": 54.62,
+        "motor_speed": 2.65,
+        "motor_power": 45.76,
+        "motor_current": 2.32,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.07,
+        "flow": 6.05,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 5904,
+      "profile_time": 5904,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 101.02,
+        "external_2": 100.65,
+        "bar_up": 69.16,
+        "bar_mid_up": 85.92,
+        "bar_mid_down": 92,
+        "bar_down": 89.18,
+        "tube": 84.11,
+        "motor_temp": 27.1,
+        "lam_temp": 25.58,
+        "motor_position": 54.92,
+        "motor_speed": 2.63,
+        "motor_power": 44.03,
+        "motor_current": 2.2,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.21,
+        "flow": 5.91,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 6014,
+      "profile_time": 6014,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.98,
+        "external_2": 100.58,
+        "bar_up": 69.16,
+        "bar_mid_up": 85.92,
+        "bar_mid_down": 92,
+        "bar_down": 89.18,
+        "tube": 84.08,
+        "motor_temp": 27.08,
+        "lam_temp": 25.56,
+        "motor_position": 55.22,
+        "motor_speed": 2.34,
+        "motor_power": 41.98,
+        "motor_current": 2.24,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.35,
+        "flow": 5.73,
+        "weight": 0,
+        "gravimetric_flow": 0,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 6141,
+      "profile_time": 6141,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.92,
+        "external_2": 100.58,
+        "bar_up": 69.3,
+        "bar_mid_up": 85.92,
+        "bar_mid_down": 91.78,
+        "bar_down": 89.18,
+        "tube": 84.07,
+        "motor_temp": 27.05,
+        "lam_temp": 25.56,
+        "motor_position": 55.52,
+        "motor_speed": 2.07,
+        "motor_power": 40,
+        "motor_current": 2.2,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.47,
+        "flow": 5.51,
+        "weight": 0.38,
+        "gravimetric_flow": 0.04,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 6273,
+      "profile_time": 6273,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.92,
+        "external_2": 100.51,
+        "bar_up": 69.16,
+        "bar_mid_up": 85.73,
+        "bar_mid_down": 91.78,
+        "bar_down": 89.18,
+        "tube": 84.04,
+        "motor_temp": 27.05,
+        "lam_temp": 25.56,
+        "motor_position": 55.72,
+        "motor_speed": 1.91,
+        "motor_power": 38.17,
+        "motor_current": 2.14,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 0.48
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.59,
+        "flow": 5.28,
+        "weight": 1.01,
+        "gravimetric_flow": 0.14,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 6403,
+      "profile_time": 6403,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.92,
+        "external_2": 100.51,
+        "bar_up": 69.16,
+        "bar_mid_up": 85.73,
+        "bar_mid_down": 92,
+        "bar_down": 89.18,
+        "tube": 84.02,
+        "motor_temp": 27.05,
+        "lam_temp": 25.56,
+        "motor_position": 56.02,
+        "motor_speed": 1.72,
+        "motor_power": 36.69,
+        "motor_current": 2.11,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 1.26
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.69,
+        "flow": 5.04,
+        "weight": 1.51,
+        "gravimetric_flow": 0.29,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 6526,
+      "profile_time": 6526,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.88,
+        "external_2": 100.48,
+        "bar_up": 69.3,
+        "bar_mid_up": 85.73,
+        "bar_mid_down": 91.78,
+        "bar_down": 88.97,
+        "tube": 83.97,
+        "motor_temp": 27.05,
+        "lam_temp": 25.61,
+        "motor_position": 56.22,
+        "motor_speed": 1.48,
+        "motor_power": 35.62,
+        "motor_current": 2.07,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 2.12
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.78,
+        "flow": 5.2,
+        "weight": 1.92,
+        "gravimetric_flow": 0.45,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 6667,
+      "profile_time": 6667,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.85,
+        "external_2": 100.51,
+        "bar_up": 69.16,
+        "bar_mid_up": 85.73,
+        "bar_mid_down": 91.78,
+        "bar_down": 88.97,
+        "tube": 83.96,
+        "motor_temp": 27.05,
+        "lam_temp": 25.61,
+        "motor_position": 56.33,
+        "motor_speed": 1.42,
+        "motor_power": 34.44,
+        "motor_current": 2.07,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 2.79
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.85,
+        "flow": 5.39,
+        "weight": 2.26,
+        "gravimetric_flow": 0.68,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 6790,
+      "profile_time": 6790,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.81,
+        "external_2": 100.51,
+        "bar_up": 69.16,
+        "bar_mid_up": 85.73,
+        "bar_mid_down": 91.78,
+        "bar_down": 88.97,
+        "tube": 83.93,
+        "motor_temp": 27.05,
+        "lam_temp": 25.61,
+        "motor_position": 56.53,
+        "motor_speed": 1.28,
+        "motor_power": 33.83,
+        "motor_current": 2.07,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 3.38
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.9,
+        "flow": 5.43,
+        "weight": 2.54,
+        "gravimetric_flow": 0.93,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 6918,
+      "profile_time": 6918,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.78,
+        "external_2": 100.51,
+        "bar_up": 69.16,
+        "bar_mid_up": 85.53,
+        "bar_mid_down": 91.78,
+        "bar_down": 88.97,
+        "tube": 83.9,
+        "motor_temp": 27.08,
+        "lam_temp": 25.58,
+        "motor_position": 56.73,
+        "motor_speed": 1.22,
+        "motor_power": 33.35,
+        "motor_current": 2,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 4.16
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 5.4,
+        "weight": 3.2,
+        "gravimetric_flow": 1.2,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 7051,
+      "profile_time": 7051,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.75,
+        "external_2": 100.51,
+        "bar_up": 69.16,
+        "bar_mid_up": 85.53,
+        "bar_mid_down": 91.78,
+        "bar_down": 88.97,
+        "tube": 83.88,
+        "motor_temp": 27.08,
+        "lam_temp": 25.58,
+        "motor_position": 56.83,
+        "motor_speed": 1.12,
+        "motor_power": 32.96,
+        "motor_current": 2.01,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 4.89
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.97,
+        "flow": 5.3,
+        "weight": 3.37,
+        "gravimetric_flow": 1.54,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 7199,
+      "profile_time": 7199,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.75,
+        "external_2": 100.51,
+        "bar_up": 69.02,
+        "bar_mid_up": 85.53,
+        "bar_mid_down": 91.78,
+        "bar_down": 88.97,
+        "tube": 83.86,
+        "motor_temp": 27.08,
+        "lam_temp": 25.58,
+        "motor_position": 57.03,
+        "motor_speed": 1.11,
+        "motor_power": 32.56,
+        "motor_current": 2.01,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 5.48
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3,
+        "flow": 5.16,
+        "weight": 3.6,
+        "gravimetric_flow": 1.85,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 7311,
+      "profile_time": 7311,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.78,
+        "external_2": 100.48,
+        "bar_up": 69.02,
+        "bar_mid_up": 85.53,
+        "bar_mid_down": 91.78,
+        "bar_down": 88.76,
+        "tube": 83.84,
+        "motor_temp": 27.08,
+        "lam_temp": 25.58,
+        "motor_position": 57.13,
+        "motor_speed": 1.18,
+        "motor_power": 32.04,
+        "motor_current": 1.97,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 6.18
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.02,
+        "flow": 4.98,
+        "weight": 4.12,
+        "gravimetric_flow": 2.14,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 7444,
+      "profile_time": 7444,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.75,
+        "external_2": 100.44,
+        "bar_up": 69.02,
+        "bar_mid_up": 85.34,
+        "bar_mid_down": 91.56,
+        "bar_down": 88.76,
+        "tube": 83.75,
+        "motor_temp": 27.05,
+        "lam_temp": 25.58,
+        "motor_position": 57.33,
+        "motor_speed": 1.13,
+        "motor_power": 31.49,
+        "motor_current": 1.89,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 6.48
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.04,
+        "flow": 4.76,
+        "weight": 4.22,
+        "gravimetric_flow": 2.36,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 7567,
+      "profile_time": 7567,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.75,
+        "external_2": 100.41,
+        "bar_up": 69.02,
+        "bar_mid_up": 85.34,
+        "bar_mid_down": 91.56,
+        "bar_down": 88.76,
+        "tube": 83.71,
+        "motor_temp": 27.05,
+        "lam_temp": 25.61,
+        "motor_position": 57.43,
+        "motor_speed": 0.98,
+        "motor_power": 31.27,
+        "motor_current": 1.95,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 6.66
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.05,
+        "flow": 4.54,
+        "weight": 4.43,
+        "gravimetric_flow": 2.51,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 7697,
+      "profile_time": 7697,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.71,
+        "external_2": 100.38,
+        "bar_up": 69.02,
+        "bar_mid_up": 85.34,
+        "bar_mid_down": 91.56,
+        "bar_down": 88.76,
+        "tube": 83.68,
+        "motor_temp": 27.05,
+        "lam_temp": 25.61,
+        "motor_position": 57.53,
+        "motor_speed": 1,
+        "motor_power": 31.2,
+        "motor_current": 1.94,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 6.87
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.06,
+        "flow": 4.3,
+        "weight": 4.93,
+        "gravimetric_flow": 2.63,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 7816,
+      "profile_time": 7816,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.71,
+        "external_2": 100.38,
+        "bar_up": 69.02,
+        "bar_mid_up": 85.34,
+        "bar_mid_down": 91.56,
+        "bar_down": 88.76,
+        "tube": 83.67,
+        "motor_temp": 27.05,
+        "lam_temp": 25.61,
+        "motor_position": 57.63,
+        "motor_speed": 0.94,
+        "motor_power": 31.1,
+        "motor_current": 1.94,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 7.51
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.07,
+        "flow": 4.08,
+        "weight": 5.24,
+        "gravimetric_flow": 2.71,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 7955,
+      "profile_time": 7955,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.65,
+        "external_2": 100.31,
+        "bar_up": 69.02,
+        "bar_mid_up": 85.34,
+        "bar_mid_down": 91.34,
+        "bar_down": 88.55,
+        "tube": 83.63,
+        "motor_temp": 27.1,
+        "lam_temp": 25.63,
+        "motor_position": 57.73,
+        "motor_speed": 0.95,
+        "motor_power": 31.14,
+        "motor_current": 1.95,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 7.62
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.07,
+        "flow": 3.8,
+        "weight": 5.43,
+        "gravimetric_flow": 2.73,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 8090,
+      "profile_time": 8090,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.65,
+        "external_2": 100.34,
+        "bar_up": 68.88,
+        "bar_mid_up": 85.14,
+        "bar_mid_down": 91.56,
+        "bar_down": 88.55,
+        "tube": 83.59,
+        "motor_temp": 27.1,
+        "lam_temp": 25.63,
+        "motor_position": 57.93,
+        "motor_speed": 0.95,
+        "motor_power": 31.16,
+        "motor_current": 1.95,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 7.67
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.06,
+        "flow": 3.51,
+        "weight": 5.74,
+        "gravimetric_flow": 2.72,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 8220,
+      "profile_time": 8220,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.65,
+        "external_2": 100.34,
+        "bar_up": 68.88,
+        "bar_mid_up": 85.14,
+        "bar_mid_down": 91.34,
+        "bar_down": 88.55,
+        "tube": 83.55,
+        "motor_temp": 27.1,
+        "lam_temp": 25.63,
+        "motor_position": 58.03,
+        "motor_speed": 0.92,
+        "motor_power": 31.18,
+        "motor_current": 1.96,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 8.15
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.06,
+        "flow": 3.26,
+        "weight": 6.1,
+        "gravimetric_flow": 2.68,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 8353,
+      "profile_time": 8353,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.65,
+        "external_2": 100.34,
+        "bar_up": 68.88,
+        "bar_mid_up": 85.14,
+        "bar_mid_down": 91.34,
+        "bar_down": 88.55,
+        "tube": 83.49,
+        "motor_temp": 27.05,
+        "lam_temp": 25.61,
+        "motor_position": 58.13,
+        "motor_speed": 0.95,
+        "motor_power": 31.1,
+        "motor_current": 1.93,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 8.27
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.06,
+        "flow": 3.08,
+        "weight": 6.26,
+        "gravimetric_flow": 2.56,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 8491,
+      "profile_time": 8491,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.61,
+        "external_2": 100.31,
+        "bar_up": 68.88,
+        "bar_mid_up": 85.14,
+        "bar_mid_down": 91.34,
+        "bar_down": 88.55,
+        "tube": 83.48,
+        "motor_temp": 27.08,
+        "lam_temp": 25.63,
+        "motor_position": 58.23,
+        "motor_speed": 0.95,
+        "motor_power": 30.98,
+        "motor_current": 1.89,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 8.37
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.06,
+        "flow": 2.89,
+        "weight": 6.49,
+        "gravimetric_flow": 2.46,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 8619,
+      "profile_time": 8619,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.58,
+        "external_2": 100.28,
+        "bar_up": 68.88,
+        "bar_mid_up": 84.95,
+        "bar_mid_down": 91.34,
+        "bar_down": 88.35,
+        "tube": 83.45,
+        "motor_temp": 27.08,
+        "lam_temp": 25.66,
+        "motor_position": 58.43,
+        "motor_speed": 0.91,
+        "motor_power": 30.94,
+        "motor_current": 1.94,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 8.95
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.06,
+        "flow": 2.74,
+        "weight": 7.04,
+        "gravimetric_flow": 2.41,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 8753,
+      "profile_time": 8753,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.55,
+        "external_2": 100.24,
+        "bar_up": 68.88,
+        "bar_mid_up": 84.95,
+        "bar_mid_down": 91.34,
+        "bar_down": 88.35,
+        "tube": 83.38,
+        "motor_temp": 27.08,
+        "lam_temp": 25.66,
+        "motor_position": 58.53,
+        "motor_speed": 0.93,
+        "motor_power": 30.95,
+        "motor_current": 1.89,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 9.11
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.05,
+        "flow": 2.65,
+        "weight": 7.18,
+        "gravimetric_flow": 2.36,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 8891,
+      "profile_time": 8891,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.55,
+        "external_2": 100.24,
+        "bar_up": 68.73,
+        "bar_mid_up": 84.95,
+        "bar_mid_down": 91.34,
+        "bar_down": 88.35,
+        "tube": 83.35,
+        "motor_temp": 27.03,
+        "lam_temp": 25.63,
+        "motor_position": 58.63,
+        "motor_speed": 0.9,
+        "motor_power": 31.13,
+        "motor_current": 1.93,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 9.21
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.05,
+        "flow": 2.56,
+        "weight": 7.37,
+        "gravimetric_flow": 2.33,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 9022,
+      "profile_time": 9022,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.55,
+        "external_2": 100.24,
+        "bar_up": 68.73,
+        "bar_mid_up": 84.76,
+        "bar_mid_down": 91.34,
+        "bar_down": 88.35,
+        "tube": 83.32,
+        "motor_temp": 27.03,
+        "lam_temp": 25.63,
+        "motor_position": 58.73,
+        "motor_speed": 0.91,
+        "motor_power": 31.07,
+        "motor_current": 1.93,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 9.65
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.04,
+        "flow": 2.49,
+        "weight": 7.85,
+        "gravimetric_flow": 2.28,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 9158,
+      "profile_time": 9158,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.55,
+        "external_2": 100.24,
+        "bar_up": 68.73,
+        "bar_mid_up": 84.76,
+        "bar_mid_down": 91.34,
+        "bar_down": 88.35,
+        "tube": 83.29,
+        "motor_temp": 27.05,
+        "lam_temp": 25.63,
+        "motor_position": 58.84,
+        "motor_speed": 0.9,
+        "motor_power": 31.32,
+        "motor_current": 1.94,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 9.85
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.03,
+        "flow": 2.42,
+        "weight": 8.06,
+        "gravimetric_flow": 2.24,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 9287,
+      "profile_time": 9287,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.55,
+        "external_2": 100.24,
+        "bar_up": 68.73,
+        "bar_mid_up": 84.76,
+        "bar_mid_down": 91.12,
+        "bar_down": 88.35,
+        "tube": 83.27,
+        "motor_temp": 27.08,
+        "lam_temp": 25.66,
+        "motor_position": 59.04,
+        "motor_speed": 0.89,
+        "motor_power": 31.54,
+        "motor_current": 1.97,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 291,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 10.05
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.02,
+        "flow": 2.37,
+        "weight": 8.29,
+        "gravimetric_flow": 2.21,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 9413,
+      "profile_time": 9413,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.51,
+        "external_2": 100.24,
+        "bar_up": 68.73,
+        "bar_mid_up": 84.76,
+        "bar_mid_down": 91.34,
+        "bar_down": 88.35,
+        "tube": 83.27,
+        "motor_temp": 27.1,
+        "lam_temp": 25.66,
+        "motor_position": 59.14,
+        "motor_speed": 0.88,
+        "motor_power": 31.95,
+        "motor_current": 1.97,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 10.27
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.01,
+        "flow": 2.34,
+        "weight": 8.76,
+        "gravimetric_flow": 2.2,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 9531,
+      "profile_time": 9531,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.51,
+        "external_2": 100.24,
+        "bar_up": 68.73,
+        "bar_mid_up": 84.76,
+        "bar_mid_down": 91.12,
+        "bar_down": 88.14,
+        "tube": 83.25,
+        "motor_temp": 27.1,
+        "lam_temp": 25.68,
+        "motor_position": 59.24,
+        "motor_speed": 0.98,
+        "motor_power": 32.01,
+        "motor_current": 1.98,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 10.73
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3,
+        "flow": 2.31,
+        "weight": 8.94,
+        "gravimetric_flow": 2.19,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 9661,
+      "profile_time": 9661,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.51,
+        "external_2": 100.24,
+        "bar_up": 68.59,
+        "bar_mid_up": 84.56,
+        "bar_mid_down": 91.12,
+        "bar_down": 88.14,
+        "tube": 83.19,
+        "motor_temp": 27.13,
+        "lam_temp": 25.68,
+        "motor_position": 59.34,
+        "motor_speed": 0.94,
+        "motor_power": 32.14,
+        "motor_current": 2,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 10.92
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3,
+        "flow": 2.28,
+        "weight": 9.17,
+        "gravimetric_flow": 2.18,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 9778,
+      "profile_time": 9778,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.51,
+        "external_2": 100.24,
+        "bar_up": 68.73,
+        "bar_mid_up": 84.56,
+        "bar_mid_down": 91.12,
+        "bar_down": 88.14,
+        "tube": 83.15,
+        "motor_temp": 27.1,
+        "lam_temp": 25.68,
+        "motor_position": 59.44,
+        "motor_speed": 1.04,
+        "motor_power": 32.07,
+        "motor_current": 1.98,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 11.14
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.99,
+        "flow": 2.27,
+        "weight": 9.44,
+        "gravimetric_flow": 2.16,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 9906,
+      "profile_time": 9906,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.48,
+        "external_2": 100.21,
+        "bar_up": 68.73,
+        "bar_mid_up": 84.56,
+        "bar_mid_down": 91.12,
+        "bar_down": 88.14,
+        "tube": 83.14,
+        "motor_temp": 27.1,
+        "lam_temp": 25.68,
+        "motor_position": 59.64,
+        "motor_speed": 1.11,
+        "motor_power": 31.77,
+        "motor_current": 1.92,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 11.63
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3,
+        "flow": 2.25,
+        "weight": 9.97,
+        "gravimetric_flow": 2.15,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 10043,
+      "profile_time": 10043,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.44,
+        "external_2": 100.18,
+        "bar_up": 68.59,
+        "bar_mid_up": 84.56,
+        "bar_mid_down": 91.12,
+        "bar_down": 88.14,
+        "tube": 83.12,
+        "motor_temp": 27.1,
+        "lam_temp": 25.68,
+        "motor_position": 59.74,
+        "motor_speed": 1,
+        "motor_power": 31.77,
+        "motor_current": 1.93,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 11.96
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3,
+        "flow": 2.24,
+        "weight": 10.15,
+        "gravimetric_flow": 2.17,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 10163,
+      "profile_time": 10163,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.41,
+        "external_2": 100.18,
+        "bar_up": 68.59,
+        "bar_mid_up": 84.56,
+        "bar_mid_down": 90.9,
+        "bar_down": 87.93,
+        "tube": 83.07,
+        "motor_temp": 27.1,
+        "lam_temp": 25.68,
+        "motor_position": 59.84,
+        "motor_speed": 1.05,
+        "motor_power": 31.76,
+        "motor_current": 1.96,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 12.15
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3,
+        "flow": 2.22,
+        "weight": 10.39,
+        "gravimetric_flow": 2.19,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 10299,
+      "profile_time": 10299,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.38,
+        "external_2": 100.14,
+        "bar_up": 68.59,
+        "bar_mid_up": 84.56,
+        "bar_mid_down": 91.12,
+        "bar_down": 87.93,
+        "tube": 83.05,
+        "motor_temp": 27.08,
+        "lam_temp": 25.68,
+        "motor_position": 60.04,
+        "motor_speed": 1.02,
+        "motor_power": 31.91,
+        "motor_current": 1.95,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 12.4
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3,
+        "flow": 2.22,
+        "weight": 10.87,
+        "gravimetric_flow": 2.22,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 10430,
+      "profile_time": 10430,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.38,
+        "external_2": 100.14,
+        "bar_up": 68.59,
+        "bar_mid_up": 84.56,
+        "bar_mid_down": 90.9,
+        "bar_down": 87.93,
+        "tube": 83.02,
+        "motor_temp": 27.05,
+        "lam_temp": 25.68,
+        "motor_position": 60.14,
+        "motor_speed": 0.96,
+        "motor_power": 32.02,
+        "motor_current": 1.95,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 12.93
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3,
+        "flow": 2.22,
+        "weight": 11.06,
+        "gravimetric_flow": 2.27,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 10560,
+      "profile_time": 10560,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.38,
+        "external_2": 100.14,
+        "bar_up": 68.59,
+        "bar_mid_up": 84.56,
+        "bar_mid_down": 90.9,
+        "bar_down": 87.93,
+        "tube": 83.01,
+        "motor_temp": 27.03,
+        "lam_temp": 25.68,
+        "motor_position": 60.24,
+        "motor_speed": 1,
+        "motor_power": 32.28,
+        "motor_current": 1.95,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 13.16
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.99,
+        "flow": 2.22,
+        "weight": 11.29,
+        "gravimetric_flow": 2.3,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 10691,
+      "profile_time": 10691,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.41,
+        "external_2": 100.14,
+        "bar_up": 68.59,
+        "bar_mid_up": 84.37,
+        "bar_mid_down": 90.9,
+        "bar_down": 87.93,
+        "tube": 82.97,
+        "motor_temp": 27.05,
+        "lam_temp": 25.68,
+        "motor_position": 60.44,
+        "motor_speed": 1.05,
+        "motor_power": 32.33,
+        "motor_current": 1.97,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 13.42
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.98,
+        "flow": 2.24,
+        "weight": 11.6,
+        "gravimetric_flow": 2.34,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 10822,
+      "profile_time": 10822,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.41,
+        "external_2": 100.14,
+        "bar_up": 68.45,
+        "bar_mid_up": 84.56,
+        "bar_mid_down": 90.9,
+        "bar_down": 87.93,
+        "tube": 82.96,
+        "motor_temp": 27.05,
+        "lam_temp": 25.68,
+        "motor_position": 60.54,
+        "motor_speed": 0.97,
+        "motor_power": 32.45,
+        "motor_current": 1.97,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 14.01
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.98,
+        "flow": 2.25,
+        "weight": 12.04,
+        "gravimetric_flow": 2.37,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 10952,
+      "profile_time": 10952,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.44,
+        "external_2": 100.18,
+        "bar_up": 68.59,
+        "bar_mid_up": 84.37,
+        "bar_mid_down": 90.9,
+        "bar_down": 87.93,
+        "tube": 82.95,
+        "motor_temp": 27.08,
+        "lam_temp": 25.7,
+        "motor_position": 60.64,
+        "motor_speed": 1.01,
+        "motor_power": 32.71,
+        "motor_current": 1.99,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 14.25
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.97,
+        "flow": 2.27,
+        "weight": 12.22,
+        "gravimetric_flow": 2.42,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 11088,
+      "profile_time": 11088,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.44,
+        "external_2": 100.18,
+        "bar_up": 68.45,
+        "bar_mid_up": 84.37,
+        "bar_mid_down": 90.9,
+        "bar_down": 87.73,
+        "tube": 82.93,
+        "motor_temp": 27.1,
+        "lam_temp": 25.75,
+        "motor_position": 60.84,
+        "motor_speed": 0.98,
+        "motor_power": 32.97,
+        "motor_current": 1.99,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 14.45
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.96,
+        "flow": 2.28,
+        "weight": 12.45,
+        "gravimetric_flow": 2.46,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 11217,
+      "profile_time": 11217,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.44,
+        "external_2": 100.18,
+        "bar_up": 68.45,
+        "bar_mid_up": 84.37,
+        "bar_mid_down": 90.9,
+        "bar_down": 87.73,
+        "tube": 82.91,
+        "motor_temp": 27.1,
+        "lam_temp": 25.78,
+        "motor_position": 60.94,
+        "motor_speed": 1.03,
+        "motor_power": 33.1,
+        "motor_current": 2.01,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 14.67
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.96,
+        "flow": 2.3,
+        "weight": 13.06,
+        "gravimetric_flow": 2.47,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 11344,
+      "profile_time": 11344,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.41,
+        "external_2": 100.14,
+        "bar_up": 68.45,
+        "bar_mid_up": 84.37,
+        "bar_mid_down": 90.9,
+        "bar_down": 87.73,
+        "tube": 82.88,
+        "motor_temp": 27.1,
+        "lam_temp": 25.78,
+        "motor_position": 61.04,
+        "motor_speed": 1.1,
+        "motor_power": 33.06,
+        "motor_current": 1.99,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 293,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 15.25
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.95,
+        "flow": 2.31,
+        "weight": 13.31,
+        "gravimetric_flow": 2.48,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 11488,
+      "profile_time": 11488,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.41,
+        "external_2": 100.14,
+        "bar_up": 68.45,
+        "bar_mid_up": 84.37,
+        "bar_mid_down": 90.68,
+        "bar_down": 87.73,
+        "tube": 82.85,
+        "motor_temp": 27.08,
+        "lam_temp": 25.78,
+        "motor_position": 61.24,
+        "motor_speed": 1.05,
+        "motor_power": 33.26,
+        "motor_current": 1.99,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 15.5
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.95,
+        "flow": 2.33,
+        "weight": 13.58,
+        "gravimetric_flow": 2.51,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 11603,
+      "profile_time": 11603,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.41,
+        "external_2": 100.14,
+        "bar_up": 68.45,
+        "bar_mid_up": 84.18,
+        "bar_mid_down": 90.68,
+        "bar_down": 87.52,
+        "tube": 82.81,
+        "motor_temp": 27.1,
+        "lam_temp": 25.78,
+        "motor_position": 61.35,
+        "motor_speed": 1.07,
+        "motor_power": 33.4,
+        "motor_current": 2.04,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 15.75
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.95,
+        "flow": 2.34,
+        "weight": 13.81,
+        "gravimetric_flow": 2.5,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 11733,
+      "profile_time": 11733,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.38,
+        "external_2": 100.14,
+        "bar_up": 68.45,
+        "bar_mid_up": 84.18,
+        "bar_mid_down": 90.68,
+        "bar_down": 87.73,
+        "tube": 82.79,
+        "motor_temp": 27.1,
+        "lam_temp": 25.78,
+        "motor_position": 61.45,
+        "motor_speed": 1.07,
+        "motor_power": 33.5,
+        "motor_current": 1.99,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 15.94
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 2.36,
+        "weight": 14.33,
+        "gravimetric_flow": 2.5,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 11874,
+      "profile_time": 11874,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.31,
+        "external_2": 100.14,
+        "bar_up": 68.31,
+        "bar_mid_up": 84.18,
+        "bar_mid_down": 90.68,
+        "bar_down": 87.52,
+        "tube": 82.75,
+        "motor_temp": 27.1,
+        "lam_temp": 25.78,
+        "motor_position": 61.65,
+        "motor_speed": 1.09,
+        "motor_power": 33.68,
+        "motor_current": 2.03,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 16.46
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 2.39,
+        "weight": 14.49,
+        "gravimetric_flow": 2.49,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 11979,
+      "profile_time": 11979,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.31,
+        "external_2": 100.14,
+        "bar_up": 68.31,
+        "bar_mid_up": 84.18,
+        "bar_mid_down": 90.68,
+        "bar_down": 87.52,
+        "tube": 82.71,
+        "motor_temp": 27.1,
+        "lam_temp": 25.78,
+        "motor_position": 61.75,
+        "motor_speed": 1.16,
+        "motor_power": 33.78,
+        "motor_current": 2.04,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 16.61
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 2.4,
+        "weight": 14.76,
+        "gravimetric_flow": 2.48,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 12105,
+      "profile_time": 12105,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.34,
+        "external_2": 100.14,
+        "bar_up": 68.45,
+        "bar_mid_up": 84.18,
+        "bar_mid_down": 90.68,
+        "bar_down": 87.52,
+        "tube": 82.69,
+        "motor_temp": 27.13,
+        "lam_temp": 25.78,
+        "motor_position": 61.95,
+        "motor_speed": 1.18,
+        "motor_power": 33.71,
+        "motor_current": 2.03,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 16.9
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 2.41,
+        "weight": 15.22,
+        "gravimetric_flow": 2.47,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 12243,
+      "profile_time": 12243,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.38,
+        "external_2": 100.14,
+        "bar_up": 68.45,
+        "bar_mid_up": 84.18,
+        "bar_mid_down": 90.68,
+        "bar_down": 87.52,
+        "tube": 82.7,
+        "motor_temp": 27.15,
+        "lam_temp": 25.78,
+        "motor_position": 62.05,
+        "motor_speed": 1.13,
+        "motor_power": 33.71,
+        "motor_current": 1.99,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 17.39
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 2.43,
+        "weight": 15.48,
+        "gravimetric_flow": 2.46,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 12384,
+      "profile_time": 12384,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.38,
+        "external_2": 100.14,
+        "bar_up": 68.31,
+        "bar_mid_up": 84.18,
+        "bar_mid_down": 90.68,
+        "bar_down": 87.52,
+        "tube": 82.7,
+        "motor_temp": 27.18,
+        "lam_temp": 25.8,
+        "motor_position": 62.25,
+        "motor_speed": 1.17,
+        "motor_power": 33.68,
+        "motor_current": 1.97,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 17.65
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.95,
+        "flow": 2.44,
+        "weight": 15.75,
+        "gravimetric_flow": 2.45,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 12518,
+      "profile_time": 12518,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.34,
+        "external_2": 100.11,
+        "bar_up": 68.31,
+        "bar_mid_up": 84.18,
+        "bar_mid_down": 90.46,
+        "bar_down": 87.52,
+        "tube": 82.66,
+        "motor_temp": 27.13,
+        "lam_temp": 25.8,
+        "motor_position": 62.35,
+        "motor_speed": 1.23,
+        "motor_power": 33.59,
+        "motor_current": 2,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 18.18
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.95,
+        "flow": 2.47,
+        "weight": 16.32,
+        "gravimetric_flow": 2.45,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 12644,
+      "profile_time": 12644,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.31,
+        "external_2": 100.07,
+        "bar_up": 68.31,
+        "bar_mid_up": 83.99,
+        "bar_mid_down": 90.46,
+        "bar_down": 87.52,
+        "tube": 82.62,
+        "motor_temp": 27.15,
+        "lam_temp": 25.83,
+        "motor_position": 62.55,
+        "motor_speed": 1.19,
+        "motor_power": 33.6,
+        "motor_current": 1.98,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 18.5
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.95,
+        "flow": 2.5,
+        "weight": 16.58,
+        "gravimetric_flow": 2.49,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 12780,
+      "profile_time": 12780,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.28,
+        "external_2": 100.07,
+        "bar_up": 68.31,
+        "bar_mid_up": 83.99,
+        "bar_mid_down": 90.46,
+        "bar_down": 87.32,
+        "tube": 82.58,
+        "motor_temp": 27.15,
+        "lam_temp": 25.83,
+        "motor_position": 62.75,
+        "motor_speed": 1.16,
+        "motor_power": 33.71,
+        "motor_current": 1.99,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 18.79
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.96,
+        "flow": 2.53,
+        "weight": 16.88,
+        "gravimetric_flow": 2.49,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 12906,
+      "profile_time": 12906,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.28,
+        "external_2": 100.04,
+        "bar_up": 68.45,
+        "bar_mid_up": 83.99,
+        "bar_mid_down": 90.46,
+        "bar_down": 87.32,
+        "tube": 82.57,
+        "motor_temp": 27.18,
+        "lam_temp": 25.85,
+        "motor_position": 62.85,
+        "motor_speed": 1.12,
+        "motor_power": 33.79,
+        "motor_current": 2.02,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 19.09
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.95,
+        "flow": 2.56,
+        "weight": 17.39,
+        "gravimetric_flow": 2.5,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 13037,
+      "profile_time": 13037,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.28,
+        "external_2": 100.04,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.99,
+        "bar_mid_down": 90.46,
+        "bar_down": 87.32,
+        "tube": 82.52,
+        "motor_temp": 27.2,
+        "lam_temp": 25.85,
+        "motor_position": 62.95,
+        "motor_speed": 1.17,
+        "motor_power": 34.04,
+        "motor_current": 2.08,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 19.6
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.95,
+        "flow": 2.6,
+        "weight": 17.62,
+        "gravimetric_flow": 2.52,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 13168,
+      "profile_time": 13168,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.24,
+        "external_2": 100.04,
+        "bar_up": 68.31,
+        "bar_mid_up": 83.8,
+        "bar_mid_down": 90.46,
+        "bar_down": 87.32,
+        "tube": 82.51,
+        "motor_temp": 27.18,
+        "lam_temp": 25.83,
+        "motor_position": 63.15,
+        "motor_speed": 1.14,
+        "motor_power": 34.42,
+        "motor_current": 2.07,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 19.85
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 2.63,
+        "weight": 17.88,
+        "gravimetric_flow": 2.54,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 13299,
+      "profile_time": 13299,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.24,
+        "external_2": 100.07,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.99,
+        "bar_mid_down": 90.46,
+        "bar_down": 87.32,
+        "tube": 82.49,
+        "motor_temp": 27.13,
+        "lam_temp": 25.83,
+        "motor_position": 63.25,
+        "motor_speed": 1.13,
+        "motor_power": 34.77,
+        "motor_current": 2.07,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 287,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 20.12
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 2.66,
+        "weight": 18.28,
+        "gravimetric_flow": 2.56,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 13438,
+      "profile_time": 13438,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.24,
+        "external_2": 100.07,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.8,
+        "bar_mid_down": 90.46,
+        "bar_down": 87.12,
+        "tube": 82.46,
+        "motor_temp": 27.1,
+        "lam_temp": 25.85,
+        "motor_position": 63.45,
+        "motor_speed": 1.19,
+        "motor_power": 34.82,
+        "motor_current": 2.09,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 295,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 20.8
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.92,
+        "flow": 2.69,
+        "weight": 18.83,
+        "gravimetric_flow": 2.59,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 13548,
+      "profile_time": 13548,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.28,
+        "external_2": 100.04,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.8,
+        "bar_mid_down": 90.25,
+        "bar_down": 87.12,
+        "tube": 82.42,
+        "motor_temp": 27.13,
+        "lam_temp": 25.88,
+        "motor_position": 63.55,
+        "motor_speed": 1.25,
+        "motor_power": 34.79,
+        "motor_current": 2.03,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 295,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 21.12
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.92,
+        "flow": 2.7,
+        "weight": 18.99,
+        "gravimetric_flow": 2.62,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 13694,
+      "profile_time": 13694,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.28,
+        "external_2": 100.01,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.8,
+        "bar_mid_down": 90.46,
+        "bar_down": 87.12,
+        "tube": 82.4,
+        "motor_temp": 27.15,
+        "lam_temp": 25.88,
+        "motor_position": 63.76,
+        "motor_speed": 1.22,
+        "motor_power": 34.99,
+        "motor_current": 2.04,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 295,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 21.29
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.92,
+        "flow": 2.73,
+        "weight": 19.24,
+        "gravimetric_flow": 2.64,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 13806,
+      "profile_time": 13806,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.28,
+        "external_2": 100.01,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.8,
+        "bar_mid_down": 90.25,
+        "bar_down": 87.12,
+        "tube": 82.36,
+        "motor_temp": 27.15,
+        "lam_temp": 25.88,
+        "motor_position": 63.96,
+        "motor_speed": 1.24,
+        "motor_power": 35.08,
+        "motor_current": 2.06,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 295,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 21.54
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.92,
+        "flow": 2.74,
+        "weight": 19.55,
+        "gravimetric_flow": 2.66,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 13936,
+      "profile_time": 13936,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.24,
+        "external_2": 99.97,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.62,
+        "bar_mid_down": 90.25,
+        "bar_down": 87.12,
+        "tube": 82.34,
+        "motor_temp": 27.18,
+        "lam_temp": 25.88,
+        "motor_position": 64.06,
+        "motor_speed": 1.32,
+        "motor_power": 35,
+        "motor_current": 2.05,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 295,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 22.05
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 2.76,
+        "weight": 20.12,
+        "gravimetric_flow": 2.65,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 14067,
+      "profile_time": 14067,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.21,
+        "external_2": 99.97,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.62,
+        "bar_mid_down": 90.25,
+        "bar_down": 86.92,
+        "tube": 82.3,
+        "motor_temp": 27.15,
+        "lam_temp": 25.88,
+        "motor_position": 64.26,
+        "motor_speed": 1.34,
+        "motor_power": 34.89,
+        "motor_current": 2.07,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 295,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 22.43
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 2.77,
+        "weight": 20.4,
+        "gravimetric_flow": 2.67,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 14205,
+      "profile_time": 14205,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.18,
+        "external_2": 99.97,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.62,
+        "bar_mid_down": 90.25,
+        "bar_down": 86.92,
+        "tube": 82.28,
+        "motor_temp": 27.13,
+        "lam_temp": 25.88,
+        "motor_position": 64.46,
+        "motor_speed": 1.28,
+        "motor_power": 35.12,
+        "motor_current": 2.08,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 295,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 22.7
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 2.78,
+        "weight": 20.68,
+        "gravimetric_flow": 2.68,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 14319,
+      "profile_time": 14319,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.14,
+        "external_2": 99.97,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.62,
+        "bar_mid_down": 90.25,
+        "bar_down": 86.92,
+        "tube": 82.25,
+        "motor_temp": 27.1,
+        "lam_temp": 25.88,
+        "motor_position": 64.56,
+        "motor_speed": 1.3,
+        "motor_power": 35.18,
+        "motor_current": 2.02,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 295,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 23.27
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 2.8,
+        "weight": 21.22,
+        "gravimetric_flow": 2.68,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 14444,
+      "profile_time": 14444,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.18,
+        "external_2": 100.01,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.62,
+        "bar_mid_down": 90.03,
+        "bar_down": 86.92,
+        "tube": 82.22,
+        "motor_temp": 27.08,
+        "lam_temp": 25.88,
+        "motor_position": 64.76,
+        "motor_speed": 1.31,
+        "motor_power": 35.07,
+        "motor_current": 2.03,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 23.52
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 2.81,
+        "weight": 21.54,
+        "gravimetric_flow": 2.69,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 14583,
+      "profile_time": 14583,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.18,
+        "external_2": 100.01,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.62,
+        "bar_mid_down": 90.03,
+        "bar_down": 86.92,
+        "tube": 82.21,
+        "motor_temp": 27.08,
+        "lam_temp": 25.88,
+        "motor_position": 64.96,
+        "motor_speed": 1.29,
+        "motor_power": 35.06,
+        "motor_current": 2.05,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 23.84
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 2.82,
+        "weight": 21.86,
+        "gravimetric_flow": 2.7,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 14703,
+      "profile_time": 14703,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.18,
+        "external_2": 100.01,
+        "bar_up": 68.03,
+        "bar_mid_up": 83.43,
+        "bar_mid_down": 90.03,
+        "bar_down": 86.92,
+        "tube": 82.18,
+        "motor_temp": 27.08,
+        "lam_temp": 25.88,
+        "motor_position": 65.06,
+        "motor_speed": 1.35,
+        "motor_power": 35.06,
+        "motor_current": 2.06,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 24.18
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 2.84,
+        "weight": 22.22,
+        "gravimetric_flow": 2.72,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 14828,
+      "profile_time": 14828,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.21,
+        "external_2": 100.01,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.62,
+        "bar_mid_down": 90.03,
+        "bar_down": 86.92,
+        "tube": 82.16,
+        "motor_temp": 27.1,
+        "lam_temp": 25.88,
+        "motor_position": 65.26,
+        "motor_speed": 1.29,
+        "motor_power": 35.16,
+        "motor_current": 2.06,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 24.84
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 2.86,
+        "weight": 22.65,
+        "gravimetric_flow": 2.74,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 14955,
+      "profile_time": 14955,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.18,
+        "external_2": 99.97,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.43,
+        "bar_mid_down": 90.03,
+        "bar_down": 86.72,
+        "tube": 82.14,
+        "motor_temp": 27.13,
+        "lam_temp": 25.92,
+        "motor_position": 65.46,
+        "motor_speed": 1.25,
+        "motor_power": 35.55,
+        "motor_current": 2.1,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 25.03
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 2.88,
+        "weight": 22.9,
+        "gravimetric_flow": 2.75,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 15086,
+      "profile_time": 15086,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.18,
+        "external_2": 99.97,
+        "bar_up": 68.03,
+        "bar_mid_up": 83.43,
+        "bar_mid_down": 90.03,
+        "bar_down": 86.72,
+        "tube": 82.13,
+        "motor_temp": 27.13,
+        "lam_temp": 25.95,
+        "motor_position": 65.56,
+        "motor_speed": 1.23,
+        "motor_power": 35.82,
+        "motor_current": 2.11,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 25.27
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 2.9,
+        "weight": 23.21,
+        "gravimetric_flow": 2.77,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 15216,
+      "profile_time": 15216,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.14,
+        "external_2": 99.94,
+        "bar_up": 68.17,
+        "bar_mid_up": 83.43,
+        "bar_mid_down": 90.03,
+        "bar_down": 86.72,
+        "tube": 82.1,
+        "motor_temp": 27.13,
+        "lam_temp": 25.97,
+        "motor_position": 65.76,
+        "motor_speed": 1.24,
+        "motor_power": 36.03,
+        "motor_current": 2.13,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 25.59
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.92,
+        "flow": 2.93,
+        "weight": 23.85,
+        "gravimetric_flow": 2.79,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 15350,
+      "profile_time": 15350,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.18,
+        "external_2": 99.94,
+        "bar_up": 68.03,
+        "bar_mid_up": 83.43,
+        "bar_mid_down": 89.82,
+        "bar_down": 86.72,
+        "tube": 82.05,
+        "motor_temp": 27.13,
+        "lam_temp": 25.97,
+        "motor_position": 65.96,
+        "motor_speed": 1.34,
+        "motor_power": 36.19,
+        "motor_current": 2.15,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 26.26
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.92,
+        "flow": 2.94,
+        "weight": 24.26,
+        "gravimetric_flow": 2.82,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 15485,
+      "profile_time": 15485,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.18,
+        "external_2": 99.91,
+        "bar_up": 68.03,
+        "bar_mid_up": 83.43,
+        "bar_mid_down": 89.82,
+        "bar_down": 86.72,
+        "tube": 82.03,
+        "motor_temp": 27.1,
+        "lam_temp": 25.97,
+        "motor_position": 66.06,
+        "motor_speed": 1.37,
+        "motor_power": 36.15,
+        "motor_current": 2.11,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 26.68
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.92,
+        "flow": 2.97,
+        "weight": 24.53,
+        "gravimetric_flow": 2.83,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 15618,
+      "profile_time": 15618,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.18,
+        "external_2": 99.94,
+        "bar_up": 68.03,
+        "bar_mid_up": 83.43,
+        "bar_mid_down": 89.82,
+        "bar_down": 86.72,
+        "tube": 82.01,
+        "motor_temp": 27.08,
+        "lam_temp": 25.97,
+        "motor_position": 66.27,
+        "motor_speed": 1.37,
+        "motor_power": 36.13,
+        "motor_current": 2.1,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 27.23
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.92,
+        "flow": 2.98,
+        "weight": 25.09,
+        "gravimetric_flow": 2.86,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 15742,
+      "profile_time": 15742,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.14,
+        "external_2": 99.94,
+        "bar_up": 68.03,
+        "bar_mid_up": 83.24,
+        "bar_mid_down": 89.82,
+        "bar_down": 86.72,
+        "tube": 81.99,
+        "motor_temp": 27.05,
+        "lam_temp": 25.97,
+        "motor_position": 66.47,
+        "motor_speed": 1.41,
+        "motor_power": 35.89,
+        "motor_current": 2.08,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 27.51
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 2.99,
+        "weight": 25.39,
+        "gravimetric_flow": 2.88,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 15867,
+      "profile_time": 15867,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.14,
+        "external_2": 99.91,
+        "bar_up": 68.03,
+        "bar_mid_up": 83.24,
+        "bar_mid_down": 89.82,
+        "bar_down": 86.52,
+        "tube": 81.93,
+        "motor_temp": 27.1,
+        "lam_temp": 25.97,
+        "motor_position": 66.67,
+        "motor_speed": 1.33,
+        "motor_power": 35.97,
+        "motor_current": 2.07,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 27.82
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 3,
+        "weight": 25.67,
+        "gravimetric_flow": 2.89,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 15996,
+      "profile_time": 15996,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.14,
+        "external_2": 99.87,
+        "bar_up": 68.03,
+        "bar_mid_up": 83.24,
+        "bar_mid_down": 89.82,
+        "bar_down": 86.52,
+        "tube": 81.91,
+        "motor_temp": 27.1,
+        "lam_temp": 25.97,
+        "motor_position": 66.77,
+        "motor_speed": 1.35,
+        "motor_power": 36.05,
+        "motor_current": 2.09,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 28.12
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 3.02,
+        "weight": 25.93,
+        "gravimetric_flow": 2.9,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 16128,
+      "profile_time": 16128,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.14,
+        "external_2": 99.87,
+        "bar_up": 68.03,
+        "bar_mid_up": 83.24,
+        "bar_mid_down": 89.82,
+        "bar_down": 86.52,
+        "tube": 81.89,
+        "motor_temp": 27.13,
+        "lam_temp": 25.97,
+        "motor_position": 66.97,
+        "motor_speed": 1.38,
+        "motor_power": 36.29,
+        "motor_current": 2.16,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 28.66
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 3.03,
+        "weight": 26.61,
+        "gravimetric_flow": 2.9,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 16264,
+      "profile_time": 16264,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.14,
+        "external_2": 99.91,
+        "bar_up": 67.89,
+        "bar_mid_up": 83.06,
+        "bar_mid_down": 89.82,
+        "bar_down": 86.52,
+        "tube": 81.88,
+        "motor_temp": 27.13,
+        "lam_temp": 25.97,
+        "motor_position": 67.17,
+        "motor_speed": 1.44,
+        "motor_power": 36.26,
+        "motor_current": 2.08,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 29.08
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 3.04,
+        "weight": 26.92,
+        "gravimetric_flow": 2.93,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 16383,
+      "profile_time": 16383,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.14,
+        "external_2": 99.94,
+        "bar_up": 67.89,
+        "bar_mid_up": 83.06,
+        "bar_mid_down": 89.6,
+        "bar_down": 86.52,
+        "tube": 81.84,
+        "motor_temp": 27.15,
+        "lam_temp": 25.97,
+        "motor_position": 67.37,
+        "motor_speed": 1.47,
+        "motor_power": 36.07,
+        "motor_current": 2.07,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 29.4
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 3.04,
+        "weight": 27.18,
+        "gravimetric_flow": 2.94,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 16518,
+      "profile_time": 16518,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.14,
+        "external_2": 99.94,
+        "bar_up": 67.89,
+        "bar_mid_up": 83.06,
+        "bar_mid_down": 89.6,
+        "bar_down": 86.32,
+        "tube": 81.79,
+        "motor_temp": 27.13,
+        "lam_temp": 25.97,
+        "motor_position": 67.57,
+        "motor_speed": 1.4,
+        "motor_power": 36.05,
+        "motor_current": 2.07,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 29.66
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 3.05,
+        "weight": 27.81,
+        "gravimetric_flow": 2.96,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 16642,
+      "profile_time": 16642,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.14,
+        "external_2": 99.91,
+        "bar_up": 67.89,
+        "bar_mid_up": 83.06,
+        "bar_mid_down": 89.6,
+        "bar_down": 86.52,
+        "tube": 81.78,
+        "motor_temp": 27.1,
+        "lam_temp": 25.97,
+        "motor_position": 67.67,
+        "motor_speed": 1.3,
+        "motor_power": 36.37,
+        "motor_current": 2.13,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 30.3
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 3.07,
+        "weight": 28.15,
+        "gravimetric_flow": 2.95,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 16780,
+      "profile_time": 16780,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.11,
+        "external_2": 99.87,
+        "bar_up": 67.89,
+        "bar_mid_up": 83.06,
+        "bar_mid_down": 89.6,
+        "bar_down": 86.32,
+        "tube": 81.73,
+        "motor_temp": 27.1,
+        "lam_temp": 26,
+        "motor_position": 67.87,
+        "motor_speed": 1.3,
+        "motor_power": 36.56,
+        "motor_current": 2.13,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 30.65
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.94,
+        "flow": 3.08,
+        "weight": 28.49,
+        "gravimetric_flow": 2.96,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 16908,
+      "profile_time": 16908,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.07,
+        "external_2": 99.87,
+        "bar_up": 67.89,
+        "bar_mid_up": 83.06,
+        "bar_mid_down": 89.6,
+        "bar_down": 86.32,
+        "tube": 81.73,
+        "motor_temp": 27.1,
+        "lam_temp": 26,
+        "motor_position": 68.07,
+        "motor_speed": 1.32,
+        "motor_power": 36.76,
+        "motor_current": 2.18,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 31.27
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 3.09,
+        "weight": 29.1,
+        "gravimetric_flow": 2.98,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 17036,
+      "profile_time": 17036,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.07,
+        "external_2": 99.87,
+        "bar_up": 67.89,
+        "bar_mid_up": 83.06,
+        "bar_mid_down": 89.6,
+        "bar_down": 86.32,
+        "tube": 81.72,
+        "motor_temp": 27.1,
+        "lam_temp": 26,
+        "motor_position": 68.27,
+        "motor_speed": 1.38,
+        "motor_power": 37.03,
+        "motor_current": 2.17,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 31.61
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 3.1,
+        "weight": 29.41,
+        "gravimetric_flow": 3.01,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 3,
+          "flow": 8
+        }
+      },
+      "time": 17170,
+      "profile_time": 17170,
+      "status": "Infuse",
+      "sensors": {
+        "external_1": 100.04,
+        "external_2": 99.87,
+        "bar_up": 67.89,
+        "bar_mid_up": 83.06,
+        "bar_mid_down": 89.39,
+        "bar_down": 86.32,
+        "tube": 81.7,
+        "motor_temp": 27.1,
+        "lam_temp": 26.02,
+        "motor_position": 68.47,
+        "motor_speed": 1.49,
+        "motor_power": 37.02,
+        "motor_current": 2.08,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 31.93
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.93,
+        "flow": 3.11,
+        "weight": 29.71,
+        "gravimetric_flow": 3.02,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 7.5
+        }
+      },
+      "time": 17304,
+      "profile_time": 17304,
+      "status": "Pressure Up",
+      "sensors": {
+        "external_1": 100.11,
+        "external_2": 99.91,
+        "bar_up": 67.89,
+        "bar_mid_up": 83.06,
+        "bar_mid_down": 89.39,
+        "bar_down": 86.12,
+        "tube": 81.68,
+        "motor_temp": 27.13,
+        "lam_temp": 26.05,
+        "motor_position": 68.67,
+        "motor_speed": 2.13,
+        "motor_power": 67.06,
+        "motor_current": 2.66,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 292,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 32.25
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.09,
+        "flow": 3.09,
+        "weight": 30.22,
+        "gravimetric_flow": 3.03,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 7.5
+        }
+      },
+      "time": 17442,
+      "profile_time": 17442,
+      "status": "Pressure Up",
+      "sensors": {
+        "external_1": 100.11,
+        "external_2": 99.91,
+        "bar_up": 67.89,
+        "bar_mid_up": 83.06,
+        "bar_mid_down": 89.39,
+        "bar_down": 86.32,
+        "tube": 81.67,
+        "motor_temp": 27.15,
+        "lam_temp": 26.07,
+        "motor_position": 69.38,
+        "motor_speed": 6.76,
+        "motor_power": 100,
+        "motor_current": 5.3,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 32.78
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.49,
+        "flow": 3.46,
+        "weight": 30.62,
+        "gravimetric_flow": 3.03,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 7.5
+        }
+      },
+      "time": 17560,
+      "profile_time": 17560,
+      "status": "Pressure Up",
+      "sensors": {
+        "external_1": 100.11,
+        "external_2": 99.91,
+        "bar_up": 67.89,
+        "bar_mid_up": 82.87,
+        "bar_mid_down": 89.39,
+        "bar_down": 86.12,
+        "tube": 81.64,
+        "motor_temp": 27.18,
+        "lam_temp": 26.07,
+        "motor_position": 70.38,
+        "motor_speed": 6.47,
+        "motor_power": 98.32,
+        "motor_current": 5.36,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 33.22
+      }
+    },
+    {
+      "shot": {
+        "pressure": 4.09,
+        "flow": 3.83,
+        "weight": 30.88,
+        "gravimetric_flow": 3.03,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 7.5
+        }
+      },
+      "time": 17694,
+      "profile_time": 17694,
+      "status": "Pressure Up",
+      "sensors": {
+        "external_1": 100.11,
+        "external_2": 99.87,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.87,
+        "bar_mid_down": 89.39,
+        "bar_down": 86.32,
+        "tube": 81.61,
+        "motor_temp": 27.18,
+        "lam_temp": 26.07,
+        "motor_position": 71.08,
+        "motor_speed": 4.87,
+        "motor_power": 78.42,
+        "motor_current": 4.97,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 33.61
+      }
+    },
+    {
+      "shot": {
+        "pressure": 4.78,
+        "flow": 4.34,
+        "weight": 31.25,
+        "gravimetric_flow": 3.05,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 7.5
+        }
+      },
+      "time": 17824,
+      "profile_time": 17824,
+      "status": "Pressure Up",
+      "sensors": {
+        "external_1": 100.11,
+        "external_2": 99.91,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.87,
+        "bar_mid_down": 89.39,
+        "bar_down": 86.12,
+        "tube": 81.58,
+        "motor_temp": 27.18,
+        "lam_temp": 26.07,
+        "motor_position": 71.59,
+        "motor_speed": 3.58,
+        "motor_power": 71.76,
+        "motor_current": 4.73,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 34.5
+      }
+    },
+    {
+      "shot": {
+        "pressure": 5.51,
+        "flow": 4.83,
+        "weight": 32.08,
+        "gravimetric_flow": 3.07,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 7.5
+        }
+      },
+      "time": 17956,
+      "profile_time": 17956,
+      "status": "Pressure Up",
+      "sensors": {
+        "external_1": 100.11,
+        "external_2": 99.91,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.87,
+        "bar_mid_down": 89.39,
+        "bar_down": 86.12,
+        "tube": 81.57,
+        "motor_temp": 27.18,
+        "lam_temp": 26.07,
+        "motor_position": 71.99,
+        "motor_speed": 3.19,
+        "motor_power": 67,
+        "motor_current": 4.32,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 34.99
+      }
+    },
+    {
+      "shot": {
+        "pressure": 6.12,
+        "flow": 5.29,
+        "weight": 34.62,
+        "gravimetric_flow": 3.1,
+        "setpoints": {
+          "active": "pressure",
+          "pressure": 7.5
+        }
+      },
+      "time": 18087,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.07,
+        "external_2": 99.91,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.87,
+        "bar_mid_down": 89.39,
+        "bar_down": 86.12,
+        "tube": 81.55,
+        "motor_temp": 27.15,
+        "lam_temp": 26.07,
+        "motor_position": 72.39,
+        "motor_speed": 2.83,
+        "motor_power": 55.23,
+        "motor_current": 4.37,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 37.64
+      }
+    },
+    {
+      "shot": {
+        "pressure": 6.38,
+        "flow": 5.24,
+        "weight": 34.23,
+        "gravimetric_flow": 3.34,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 18209,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.91,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.69,
+        "bar_mid_down": 89.39,
+        "bar_down": 86.12,
+        "tube": 81.53,
+        "motor_temp": 27.13,
+        "lam_temp": 26.07,
+        "motor_position": 72.39,
+        "motor_speed": 2.69,
+        "motor_power": -4.77,
+        "motor_current": 1.56,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 48,
+        "adc_1": 48,
+        "adc_2": 48,
+        "adc_3": 48,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 37.77
+      }
+    },
+    {
+      "shot": {
+        "pressure": 6.22,
+        "flow": 5.2,
+        "weight": 34.62,
+        "gravimetric_flow": 3.53,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 18337,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.04,
+        "external_2": 99.91,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.87,
+        "bar_mid_down": 89.39,
+        "bar_down": 86.12,
+        "tube": 81.53,
+        "motor_temp": 27.13,
+        "lam_temp": 26.07,
+        "motor_position": 72.19,
+        "motor_speed": -2.19,
+        "motor_power": -44.77,
+        "motor_current": -1.55,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 294,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 38.34
+      }
+    },
+    {
+      "shot": {
+        "pressure": 5.67,
+        "flow": 4.95,
+        "weight": 35.18,
+        "gravimetric_flow": 3.72,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 18467,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.04,
+        "external_2": 99.91,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.87,
+        "bar_mid_down": 89.39,
+        "bar_down": 85.92,
+        "tube": 81.52,
+        "motor_temp": 27.15,
+        "lam_temp": 26.07,
+        "motor_position": 71.49,
+        "motor_speed": -4.54,
+        "motor_power": -46.48,
+        "motor_current": -1.31,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 290,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.03
+      }
+    },
+    {
+      "shot": {
+        "pressure": 4.85,
+        "flow": 4.45,
+        "weight": 35.46,
+        "gravimetric_flow": 3.93,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 18612,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.07,
+        "external_2": 99.87,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.87,
+        "bar_mid_down": 89.39,
+        "bar_down": 85.92,
+        "tube": 81.5,
+        "motor_temp": 27.15,
+        "lam_temp": 26.1,
+        "motor_position": 70.98,
+        "motor_speed": -4.28,
+        "motor_power": -42.6,
+        "motor_current": -1.31,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 290,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.42
+      }
+    },
+    {
+      "shot": {
+        "pressure": 3.88,
+        "flow": 3.97,
+        "weight": 35.85,
+        "gravimetric_flow": 4.16,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 18720,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.07,
+        "external_2": 99.81,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.69,
+        "bar_mid_down": 89.18,
+        "bar_down": 85.92,
+        "tube": 81.44,
+        "motor_temp": 27.2,
+        "lam_temp": 26.14,
+        "motor_position": 70.48,
+        "motor_speed": -4.03,
+        "motor_power": -42.48,
+        "motor_current": -1.24,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 290,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 43.02
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.92,
+        "flow": 2.97,
+        "weight": 36.5,
+        "gravimetric_flow": 4.65,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 18848,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.07,
+        "external_2": 99.81,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.69,
+        "bar_mid_down": 89.18,
+        "bar_down": 85.92,
+        "tube": 81.41,
+        "motor_temp": 27.2,
+        "lam_temp": 26.17,
+        "motor_position": 69.88,
+        "motor_speed": -4.08,
+        "motor_power": -45.99,
+        "motor_current": -1.2,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 290,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 40.84
+      }
+    },
+    {
+      "shot": {
+        "pressure": 2.12,
+        "flow": 1.87,
+        "weight": 36.83,
+        "gravimetric_flow": 5.1,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 18999,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.04,
+        "external_2": 99.81,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.69,
+        "bar_mid_down": 89.18,
+        "bar_down": 85.92,
+        "tube": 81.39,
+        "motor_temp": 27.2,
+        "lam_temp": 26.17,
+        "motor_position": 69.38,
+        "motor_speed": -4.25,
+        "motor_power": -45.28,
+        "motor_current": -1.25,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 290,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 41.2
+      }
+    },
+    {
+      "shot": {
+        "pressure": 1.57,
+        "flow": 0.64,
+        "weight": 37.37,
+        "gravimetric_flow": 5.54,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 19110,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.07,
+        "external_2": 99.81,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.69,
+        "bar_mid_down": 89.18,
+        "bar_down": 85.92,
+        "tube": 81.39,
+        "motor_temp": 27.22,
+        "lam_temp": 26.19,
+        "motor_position": 68.78,
+        "motor_speed": -4.23,
+        "motor_power": -39.36,
+        "motor_current": -1.34,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 290,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 41.72
+      }
+    },
+    {
+      "shot": {
+        "pressure": 1.21,
+        "flow": 0,
+        "weight": 37.92,
+        "gravimetric_flow": 5.81,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 19237,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.04,
+        "external_2": 99.84,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.69,
+        "bar_mid_down": 89.18,
+        "bar_down": 85.92,
+        "tube": 81.39,
+        "motor_temp": 27.22,
+        "lam_temp": 26.19,
+        "motor_position": 68.27,
+        "motor_speed": -4.18,
+        "motor_power": -39,
+        "motor_current": -1.22,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 290,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 42.25
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.95,
+        "flow": 0,
+        "weight": 37.92,
+        "gravimetric_flow": 6.08,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 19365,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.04,
+        "external_2": 99.87,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.69,
+        "bar_mid_down": 88.97,
+        "bar_down": 85.92,
+        "tube": 81.37,
+        "motor_temp": 27.22,
+        "lam_temp": 26.22,
+        "motor_position": 67.67,
+        "motor_speed": -5.91,
+        "motor_power": -78.97,
+        "motor_current": -2.19,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 42.24
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.76,
+        "flow": 0,
+        "weight": 38.35,
+        "gravimetric_flow": 6.1,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 19504,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.04,
+        "external_2": 99.87,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.69,
+        "bar_mid_down": 89.18,
+        "bar_down": 85.73,
+        "tube": 81.36,
+        "motor_temp": 27.22,
+        "lam_temp": 26.22,
+        "motor_position": 66.57,
+        "motor_speed": -9.64,
+        "motor_power": -100,
+        "motor_current": -1.29,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 42.66
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.61,
+        "flow": 0,
+        "weight": 38.53,
+        "gravimetric_flow": 6.15,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 19621,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.07,
+        "external_2": 99.91,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.5,
+        "bar_mid_down": 89.18,
+        "bar_down": 85.73,
+        "tube": 81.32,
+        "motor_temp": 27.2,
+        "lam_temp": 26.27,
+        "motor_position": 65.36,
+        "motor_speed": -9.68,
+        "motor_power": -100,
+        "motor_current": -1.19,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 42.76
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0.49,
+        "flow": 0,
+        "weight": 38.87,
+        "gravimetric_flow": 6.19,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 19756,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.07,
+        "external_2": 99.91,
+        "bar_up": 67.61,
+        "bar_mid_up": 82.69,
+        "bar_mid_down": 89.18,
+        "bar_down": 85.73,
+        "tube": 81.32,
+        "motor_temp": 27.22,
+        "lam_temp": 26.27,
+        "motor_position": 63.96,
+        "motor_speed": -9.65,
+        "motor_power": -100,
+        "motor_current": -1.24,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 42.75
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 38.96,
+        "gravimetric_flow": 5.91,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 19893,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.04,
+        "external_2": 99.94,
+        "bar_up": 67.75,
+        "bar_mid_up": 82.5,
+        "bar_mid_down": 89.18,
+        "bar_down": 85.73,
+        "tube": 81.31,
+        "motor_temp": 27.22,
+        "lam_temp": 26.27,
+        "motor_position": 62.75,
+        "motor_speed": -9.4,
+        "motor_power": -100,
+        "motor_current": -1.37,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 42.4
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.07,
+        "gravimetric_flow": 5.63,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 20019,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.91,
+        "bar_up": 67.61,
+        "bar_mid_up": 82.5,
+        "bar_mid_down": 89.18,
+        "bar_down": 85.73,
+        "tube": 81.29,
+        "motor_temp": 27.22,
+        "lam_temp": 26.27,
+        "motor_position": 61.55,
+        "motor_speed": -9.31,
+        "motor_power": -100,
+        "motor_current": -1.71,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 42.01
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.23,
+        "gravimetric_flow": 5.02,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 20150,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.87,
+        "bar_up": 67.61,
+        "bar_mid_up": 82.5,
+        "bar_mid_down": 88.97,
+        "bar_down": 85.53,
+        "tube": 81.25,
+        "motor_temp": 27.25,
+        "lam_temp": 26.27,
+        "motor_position": 60.34,
+        "motor_speed": -9.27,
+        "motor_power": -100,
+        "motor_current": -1.66,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 41.75
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.28,
+        "gravimetric_flow": 4.42,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 20277,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.84,
+        "bar_up": 67.61,
+        "bar_mid_up": 82.5,
+        "bar_mid_down": 88.97,
+        "bar_down": 85.53,
+        "tube": 81.21,
+        "motor_temp": 27.22,
+        "lam_temp": 26.27,
+        "motor_position": 59.14,
+        "motor_speed": -9.26,
+        "motor_power": -100,
+        "motor_current": -1.66,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 289,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 41.45
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.32,
+        "gravimetric_flow": 3.81,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 20408,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.87,
+        "bar_up": 67.61,
+        "bar_mid_up": 82.5,
+        "bar_mid_down": 88.97,
+        "bar_down": 85.53,
+        "tube": 81.19,
+        "motor_temp": 27.22,
+        "lam_temp": 26.27,
+        "motor_position": 57.93,
+        "motor_speed": -9.28,
+        "motor_power": -100,
+        "motor_current": -1.71,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 41.15
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.36,
+        "gravimetric_flow": 3.37,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 20535,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.87,
+        "bar_up": 67.61,
+        "bar_mid_up": 82.32,
+        "bar_mid_down": 88.76,
+        "bar_down": 85.53,
+        "tube": 81.11,
+        "motor_temp": 27.22,
+        "lam_temp": 26.27,
+        "motor_position": 56.83,
+        "motor_speed": -9.25,
+        "motor_power": -100,
+        "motor_current": -1.75,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 40.48
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.36,
+        "gravimetric_flow": 2.85,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 20660,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.87,
+        "bar_up": 67.48,
+        "bar_mid_up": 82.32,
+        "bar_mid_down": 88.55,
+        "bar_down": 85.53,
+        "tube": 81.06,
+        "motor_temp": 27.22,
+        "lam_temp": 26.27,
+        "motor_position": 55.52,
+        "motor_speed": -9.25,
+        "motor_power": -100,
+        "motor_current": -1.73,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 40.34
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.36,
+        "gravimetric_flow": 2.34,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 20794,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.84,
+        "bar_up": 67.48,
+        "bar_mid_up": 82.32,
+        "bar_mid_down": 88.55,
+        "bar_down": 85.34,
+        "tube": 81,
+        "motor_temp": 27.22,
+        "lam_temp": 26.27,
+        "motor_position": 54.32,
+        "motor_speed": -9.23,
+        "motor_power": -100,
+        "motor_current": -1.77,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 40.18
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.37,
+        "gravimetric_flow": 1.83,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 20928,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.84,
+        "bar_up": 67.48,
+        "bar_mid_up": 82.32,
+        "bar_mid_down": 88.55,
+        "bar_down": 85.34,
+        "tube": 80.97,
+        "motor_temp": 27.2,
+        "lam_temp": 26.27,
+        "motor_position": 53.11,
+        "motor_speed": -9.25,
+        "motor_power": -100,
+        "motor_current": -1.69,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.94
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.4,
+        "gravimetric_flow": 1.32,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 21059,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.84,
+        "bar_up": 67.48,
+        "bar_mid_up": 82.14,
+        "bar_mid_down": 88.35,
+        "bar_down": 85.34,
+        "tube": 80.89,
+        "motor_temp": 27.22,
+        "lam_temp": 26.27,
+        "motor_position": 51.81,
+        "motor_speed": -9.33,
+        "motor_power": -100,
+        "motor_current": -1.74,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.85
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.4,
+        "gravimetric_flow": 1.1,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 21209,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.87,
+        "bar_up": 67.61,
+        "bar_mid_up": 82.14,
+        "bar_mid_down": 88.35,
+        "bar_down": 85.34,
+        "tube": 80.87,
+        "motor_temp": 27.25,
+        "lam_temp": 26.29,
+        "motor_position": 50.7,
+        "motor_speed": -9.34,
+        "motor_power": -100,
+        "motor_current": -1.62,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.76
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.41,
+        "gravimetric_flow": 0.86,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 21322,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 100.01,
+        "external_2": 99.84,
+        "bar_up": 67.48,
+        "bar_mid_up": 82.14,
+        "bar_mid_down": 88.35,
+        "bar_down": 85.34,
+        "tube": 80.85,
+        "motor_temp": 27.27,
+        "lam_temp": 26.29,
+        "motor_position": 49.5,
+        "motor_speed": -9.36,
+        "motor_power": -100,
+        "motor_current": -1.67,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.68
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.42,
+        "gravimetric_flow": 0.69,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 21451,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 99.97,
+        "external_2": 99.84,
+        "bar_up": 67.48,
+        "bar_mid_up": 81.96,
+        "bar_mid_down": 88.35,
+        "bar_down": 85.14,
+        "tube": 80.81,
+        "motor_temp": 27.25,
+        "lam_temp": 26.32,
+        "motor_position": 48.19,
+        "motor_speed": -9.38,
+        "motor_power": -100,
+        "motor_current": -1.69,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.55
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.42,
+        "gravimetric_flow": 0.54,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 21591,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 99.97,
+        "external_2": 99.81,
+        "bar_up": 67.48,
+        "bar_mid_up": 81.96,
+        "bar_mid_down": 88.35,
+        "bar_down": 85.14,
+        "tube": 80.78,
+        "motor_temp": 27.22,
+        "lam_temp": 26.29,
+        "motor_position": 46.99,
+        "motor_speed": -9.36,
+        "motor_power": -100,
+        "motor_current": -1.65,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.52
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.42,
+        "gravimetric_flow": 0.41,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 21717,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 99.94,
+        "external_2": 99.81,
+        "bar_up": 67.34,
+        "bar_mid_up": 81.96,
+        "bar_mid_down": 88.35,
+        "bar_down": 85.14,
+        "tube": 80.74,
+        "motor_temp": 27.2,
+        "lam_temp": 26.29,
+        "motor_position": 45.78,
+        "motor_speed": -9.4,
+        "motor_power": -100,
+        "motor_current": -1.61,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.49
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.42,
+        "gravimetric_flow": 0.27,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 21850,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 99.97,
+        "external_2": 99.77,
+        "bar_up": 67.34,
+        "bar_mid_up": 81.96,
+        "bar_mid_down": 88.14,
+        "bar_down": 85.14,
+        "tube": 80.7,
+        "motor_temp": 27.2,
+        "lam_temp": 26.32,
+        "motor_position": 44.48,
+        "motor_speed": -9.37,
+        "motor_power": -100,
+        "motor_current": -1.49,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.45
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.42,
+        "gravimetric_flow": 0.2,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 21979,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 99.94,
+        "external_2": 99.77,
+        "bar_up": 67.48,
+        "bar_mid_up": 81.96,
+        "bar_mid_down": 88.14,
+        "bar_down": 85.14,
+        "tube": 80.69,
+        "motor_temp": 27.22,
+        "lam_temp": 26.34,
+        "motor_position": 43.27,
+        "motor_speed": -9.38,
+        "motor_power": -100,
+        "motor_current": -1.61,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.43
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.41,
+        "gravimetric_flow": 0.15,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 22113,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 99.97,
+        "external_2": 99.77,
+        "bar_up": 67.34,
+        "bar_mid_up": 81.96,
+        "bar_mid_down": 88.14,
+        "bar_down": 85.14,
+        "tube": 80.67,
+        "motor_temp": 27.25,
+        "lam_temp": 26.36,
+        "motor_position": 42.07,
+        "motor_speed": -9.4,
+        "motor_power": -100,
+        "motor_current": -1.62,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.42
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.41,
+        "gravimetric_flow": 0.11,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 22237,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 99.94,
+        "external_2": 99.77,
+        "bar_up": 67.34,
+        "bar_mid_up": 81.77,
+        "bar_mid_down": 88.14,
+        "bar_down": 84.95,
+        "tube": 80.63,
+        "motor_temp": 27.25,
+        "lam_temp": 26.36,
+        "motor_position": 40.86,
+        "motor_speed": -9.41,
+        "motor_power": -100,
+        "motor_current": -1.64,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 50,
+        "adc_1": 50,
+        "adc_2": 50,
+        "adc_3": 50,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.41
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.41,
+        "gravimetric_flow": 0.08,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 22374,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 99.91,
+        "external_2": 99.74,
+        "bar_up": 67.34,
+        "bar_mid_up": 81.77,
+        "bar_mid_down": 88.14,
+        "bar_down": 84.95,
+        "tube": 80.57,
+        "motor_temp": 27.25,
+        "lam_temp": 26.39,
+        "motor_position": 39.76,
+        "motor_speed": -9.43,
+        "motor_power": -100,
+        "motor_current": -1.64,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 297,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.41
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.41,
+        "gravimetric_flow": 0.06,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 22489,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 99.87,
+        "external_2": 99.74,
+        "bar_up": 67.2,
+        "bar_mid_up": 81.77,
+        "bar_mid_down": 88.14,
+        "bar_down": 84.95,
+        "tube": 80.54,
+        "motor_temp": 27.25,
+        "lam_temp": 26.39,
+        "motor_position": 38.55,
+        "motor_speed": -9.41,
+        "motor_power": -100,
+        "motor_current": -1.6,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 299,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.41
+      }
+    },
+    {
+      "shot": {
+        "pressure": 0,
+        "flow": 0,
+        "weight": 39.41,
+        "gravimetric_flow": 0.04,
+        "setpoints": {
+          "active": null
+        }
+      },
+      "time": 22613,
+      "profile_time": 18087,
+      "status": "retracting",
+      "sensors": {
+        "external_1": 99.84,
+        "external_2": 99.74,
+        "bar_up": 67.2,
+        "bar_mid_up": 81.77,
+        "bar_mid_down": 88.14,
+        "bar_down": 84.95,
+        "tube": 80.53,
+        "motor_temp": 27.22,
+        "lam_temp": 26.39,
+        "motor_position": 37.35,
+        "motor_speed": -9.43,
+        "motor_power": -100,
+        "motor_current": -1.6,
+        "bandheater_power": 0,
+        "bandheater_current": 0.03,
+        "pressure_sensor": 299,
+        "adc_0": 49,
+        "adc_1": 49,
+        "adc_2": 49,
+        "adc_3": 49,
+        "water_status": true,
+        "motor_thermistor": "NaN",
+        "weight_prediction": 39.41
+      }
+    }
+  ],
+  "profile": {
+    "id": "c82ee9c1-530c-433d-aaa5-95f9683155c2",
+    "db_key": 46,
+    "author": "Damian",
+    "author_id": "48101eb2-0d54-4891-8434-d77e68f36610",
+    "display": {
+      "shortDescription": "Fast preinfusion and pressureized blooming",
+      "description": "Aims to replicate the nuanced extraction characteristics of traditional manual lever espresso machines. Opening the lever valve initiates a quick pre-infusion phase at low pressure, allowing the steam pressure in the boiler to evenly saturate the puck. After 10 seconds of pressure equilibrium, the pressure ramps up to the set 'Target Pressure' and then gradually declines. \n\nDial in a flow rate of 1.2 to 1.8 ml/s during extraction, with only a few drops in the cup during pre-infusion and blooming. Based on the original work by Damian Brakel https://www.diy.brakel.com.au",
+      "image": "/api/v1/profile/image/f24aed3f552d7565b75cb9bbc3bda329.png",
+      "accentColor": "#F84810"
+    },
+    "final_weight": 36,
+    "last_changed": 1775524239.3111942,
+    "name": "Traditional Lever",
+    "temperature": 89,
+    "stages": [
+      {
+        "name": "Fill start",
+        "key": "fill_start_1",
+        "type": "pressure",
+        "dynamics": {
+          "points": [
+            [
+              0,
+              2
+            ]
+          ],
+          "over": "time",
+          "interpolation": "linear"
+        },
+        "exit_triggers": [
+          {
+            "type": "time",
+            "value": 2,
+            "relative": true,
+            "comparison": ">="
+          }
+        ],
+        "limits": [
+          {
+            "type": "flow",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "name": "Fill",
+        "key": "fill_2",
+        "type": "pressure",
+        "dynamics": {
+          "points": [
+            [
+              0,
+              2
+            ]
+          ],
+          "over": "time",
+          "interpolation": "linear"
+        },
+        "exit_triggers": [
+          {
+            "type": "time",
+            "value": 25,
+            "relative": true,
+            "comparison": ">="
+          },
+          {
+            "type": "pressure",
+            "value": 1.5,
+            "relative": false,
+            "comparison": ">="
+          }
+        ],
+        "limits": [
+          {
+            "type": "flow",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "name": "Infuse",
+        "key": "infuse_3",
+        "type": "pressure",
+        "dynamics": {
+          "points": [
+            [
+              0,
+              3
+            ]
+          ],
+          "over": "time",
+          "interpolation": "linear"
+        },
+        "exit_triggers": [
+          {
+            "type": "time",
+            "value": 12,
+            "relative": true,
+            "comparison": ">="
+          }
+        ],
+        "limits": [
+          {
+            "type": "flow",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "name": "Pressure Up",
+        "key": "pressure_up_4",
+        "type": "pressure",
+        "dynamics": {
+          "points": [
+            [
+              0,
+              "$pressure_1"
+            ]
+          ],
+          "over": "time",
+          "interpolation": "linear"
+        },
+        "exit_triggers": [
+          {
+            "type": "time",
+            "value": 8,
+            "relative": true,
+            "comparison": ">="
+          }
+        ],
+        "limits": []
+      },
+      {
+        "name": "Pressure Decline",
+        "key": "pressure_decline_5",
+        "type": "pressure",
+        "dynamics": {
+          "points": [
+            [
+              0,
+              9
+            ],
+            [
+              55,
+              3
+            ]
+          ],
+          "over": "time",
+          "interpolation": "linear"
+        },
+        "exit_triggers": [
+          {
+            "type": "time",
+            "value": 55,
+            "relative": true,
+            "comparison": ">="
+          },
+          {
+            "type": "flow",
+            "value": 2.8,
+            "relative": false,
+            "comparison": ">="
+          }
+        ],
+        "limits": []
+      },
+      {
+        "name": "Pressure Hold",
+        "key": "pressure_hold_6",
+        "type": "pressure",
+        "dynamics": {
+          "points": [
+            [
+              0,
+              3
+            ]
+          ],
+          "over": "time",
+          "interpolation": "linear"
+        },
+        "exit_triggers": [
+          {
+            "type": "flow",
+            "value": 2.8,
+            "relative": false,
+            "comparison": ">="
+          }
+        ],
+        "limits": []
+      },
+      {
+        "name": "Flow Limit",
+        "key": "flow_limit_7",
+        "type": "flow",
+        "dynamics": {
+          "points": [
+            [
+              0,
+              2.5
+            ]
+          ],
+          "over": "time",
+          "interpolation": "linear"
+        },
+        "exit_triggers": [],
+        "limits": [
+          {
+            "type": "pressure",
+            "value": 3
+          }
+        ]
+      }
+    ],
+    "variables": [
+      {
+        "name": "Peak Pressure",
+        "key": "pressure_1",
+        "type": "pressure",
+        "value": 7.5
+      }
+    ],
+    "previous_authors": []
+  }
+}
