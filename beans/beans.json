@@ -42,5 +42,16 @@
     "userNotes": "冰咖goat",
     "createdAt": "2026-04-15T17:46:50.552Z",
     "updatedAt": "2026-04-15T17:46:50.552Z"
+  },
+  {
+    "id": "49f7259f-a3d6-4596-b741-15e487ce12c3",
+    "name": "Southern weather",
+    "roaster": "Onyx",
+    "roastDate": "2026-04-10",
+    "roastLevel": "medium-light",
+    "tags": [],
+    "userNotes": "",
+    "createdAt": "2026-04-18T16:10:42.886Z",
+    "updatedAt": "2026-04-18T16:10:42.886Z"
   }
 ]
