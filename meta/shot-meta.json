@@ -135,24 +135,27 @@
   },
   "8fb75c13-3f1c-4ce9-b9d7-436a4121f9a9": {
     "rating": 6,
-    "grindSetting": "",
+    "grindSetting": "1.1",
     "note": "",
-    "updatedAt": "2026-04-18T16:10:50.135Z",
-    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
+    "updatedAt": "2026-04-18T16:11:47.375Z",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "beanId": "49f7259f-a3d6-4596-b741-15e487ce12c3"
   },
   "d0d6b414-74d9-4233-baa4-1f41abf5a6c7": {
     "rating": 2,
-    "grindSetting": "",
+    "grindSetting": "1.2",
     "note": "",
-    "updatedAt": "2026-04-18T16:10:51.525Z",
-    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
+    "updatedAt": "2026-04-18T16:11:45.874Z",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "beanId": "49f7259f-a3d6-4596-b741-15e487ce12c3"
   },
   "ce513575-f1a3-48a0-bab7-d59f5ea767cc": {
     "rating": 2,
-    "grindSetting": "",
+    "grindSetting": "1.2",
     "note": "",
-    "updatedAt": "2026-04-18T16:10:52.701Z",
-    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
+    "updatedAt": "2026-04-18T16:11:44.632Z",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "beanId": "49f7259f-a3d6-4596-b741-15e487ce12c3"
   },
   "d1422995-3111-499d-8a76-b83ff315bfcc": {
     "rating": 1,
@@ -172,7 +175,8 @@
     "rating": 1,
     "grindSetting": "",
     "note": "",
-    "updatedAt": "2026-04-18T16:10:59.830Z",
-    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
+    "updatedAt": "2026-04-18T16:11:34.367Z",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63"
   }
 }
