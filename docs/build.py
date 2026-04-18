@@ -24,6 +24,11 @@ def main():
         grinders = {g['id']: g for g in json.load(f)}
     with open(ROOT / 'baskets' / 'baskets.json') as f:
         baskets = {b['id']: b for b in json.load(f)}
+    try:
+        with open(ROOT / 'puck-screens' / 'puck-screens.json') as f:
+            puck_screens = {p['id']: p for p in json.load(f)}
+    except FileNotFoundError:
+        puck_screens = {}
 
     all_files = sorted(
         glob.glob(str(ROOT / 'shots' / '**' / '*.json'), recursive=True) +
@@ -72,6 +77,7 @@ def main():
             bean = beans.get(meta.get('beanId', ''))
             grinder = grinders.get(meta.get('grinderId', ''))
             basket = baskets.get(meta.get('basketId', ''))
+            puck_screen = puck_screens.get(meta.get('puckScreenId', ''))
             shot_entry['rating'] = meta.get('rating')
             shot_entry['note'] = meta.get('note', '')
             shot_entry['grindSetting'] = meta.get('grindSetting', '')
@@ -88,6 +94,8 @@ def main():
                 }
             if basket:
                 shot_entry['basket'] = {'name': basket['name']}
+            if puck_screen:
+                shot_entry['puckScreen'] = {'name': puck_screen['name']}
 
         shots.append(shot_entry)
 

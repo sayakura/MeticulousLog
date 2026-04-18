@@ -242,6 +242,9 @@
             if (shot.basket) {
               detailParts.push(`<span class="detail-item"><span class="detail-icon">&#9716;</span> ${esc(shot.basket.name)}</span>`);
             }
+            if (shot.puckScreen) {
+              detailParts.push(`<span class="detail-item"><span class="detail-icon">&#9678;</span> ${esc(shot.puckScreen.name)}</span>`);
+            }
 
             const noteHtml = shot.note ? `<div class="note">${esc(shot.note)}</div>` : '';
 
