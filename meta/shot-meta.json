@@ -181,7 +181,12 @@
   },
   "2f30b3bd-1913-4619-8edd-1ed48cf596fb": {
     "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
-    "updatedAt": "2026-04-19T17:15:39.110Z"
+    "updatedAt": "2026-04-19T20:28:14.368Z",
+    "grindSetting": "1.1",
+    "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63",
+    "basketId": "2365ce43-b6c5-4310-a29f-35a1ff882757",
+    "rating": 6,
+    "note": ""
   },
   "bfb11ca4-18c1-4cf6-b1cf-ea42cae5f436": {
     "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
