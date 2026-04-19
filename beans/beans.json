@@ -53,5 +53,16 @@
     "userNotes": "",
     "createdAt": "2026-04-18T16:10:42.886Z",
     "updatedAt": "2026-04-18T16:10:42.886Z"
+  },
+  {
+    "id": "f908a90e-3c51-40dd-92fe-69ac55982c25",
+    "name": "Eye of tiger",
+    "roaster": "Equator",
+    "roastDate": "",
+    "roastLevel": "medium",
+    "tags": [],
+    "userNotes": "",
+    "createdAt": "2026-04-19T20:27:49.407Z",
+    "updatedAt": "2026-04-19T20:27:49.407Z"
   }
 ]
