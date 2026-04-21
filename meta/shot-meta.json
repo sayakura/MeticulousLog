@@ -209,16 +209,20 @@
   },
   "971ed81a-a23c-4884-8e56-e0f08d448988": {
     "grindSetting": "0.9",
-    "updatedAt": "2026-04-21T00:59:18.088Z",
+    "updatedAt": "2026-04-21T00:59:32.805Z",
     "beanId": "7f74a282-a723-4323-b0c5-14296036c52c",
-    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "rating": 1,
+    "note": ""
   },
   "a9ccdd52-478c-4a07-a2d3-1e650eda2359": {
     "beanId": "49f7259f-a3d6-4596-b741-15e487ce12c3",
-    "updatedAt": "2026-04-21T00:59:16.990Z",
+    "updatedAt": "2026-04-21T00:59:28.494Z",
     "grindSetting": "1.0",
     "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83",
-    "grinderId": "59068062-2a7c-4a10-8832-85641873790d"
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "rating": 8,
+    "note": ""
   },
   "903ce4ba-2abb-46a8-9d25-ae58906db615": {
     "beanId": "49f7259f-a3d6-4596-b741-15e487ce12c3",
