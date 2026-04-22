@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "06516959-2bdd-44ac-ab79-cd98aec13915",
+    "name": "Paper filter",
+    "size": "",
+    "type": "mesh",
+    "isDefault": true,
+    "userNotes": "",
+    "createdAt": "2026-04-22T17:24:28.386Z",
+    "updatedAt": "2026-04-22T17:24:28.386Z"
+  }
+]
