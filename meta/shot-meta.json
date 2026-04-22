@@ -283,5 +283,11 @@
     "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
     "beanId": "7f74a282-a723-4323-b0c5-14296036c52c",
     "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915"
+  },
+  "f857c11a-f8ef-42b3-85d1-f6b1fb832471": {
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "updatedAt": "2026-04-22T23:58:11.366Z",
+    "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915",
+    "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83"
   }
 }
