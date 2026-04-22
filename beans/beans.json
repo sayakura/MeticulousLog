@@ -64,5 +64,16 @@
     "userNotes": "",
     "createdAt": "2026-04-19T20:27:49.407Z",
     "updatedAt": "2026-04-19T20:27:49.407Z"
+  },
+  {
+    "id": "7385072f-9c43-4400-bef6-325e6463a90e",
+    "name": "Night Light",
+    "roaster": "Blue Bottle",
+    "roastDate": "2026-04-08",
+    "roastLevel": "medium",
+    "tags": [],
+    "userNotes": "",
+    "createdAt": "2026-04-22T06:07:47.985Z",
+    "updatedAt": "2026-04-22T06:07:47.985Z"
   }
 ]
