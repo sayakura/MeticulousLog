@@ -6,7 +6,8 @@
     "type": "stock",
     "userNotes": "",
     "createdAt": "2026-04-13T18:41:26.694Z",
-    "updatedAt": "2026-04-15T01:00:20.510Z"
+    "updatedAt": "2026-04-15T01:00:20.510Z",
+    "isDefault": false
   },
   {
     "id": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83",
@@ -15,6 +16,7 @@
     "type": "stock",
     "userNotes": "",
     "createdAt": "2026-04-15T01:00:36.018Z",
-    "updatedAt": "2026-04-15T01:00:36.018Z"
+    "updatedAt": "2026-04-22T17:23:44.852Z",
+    "isDefault": true
   }
 ]
