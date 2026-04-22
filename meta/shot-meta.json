@@ -249,7 +249,12 @@
   },
   "1d2f812a-521d-4535-b0fc-137746721a2f": {
     "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
-    "updatedAt": "2026-04-21T16:28:40.612Z"
+    "updatedAt": "2026-04-22T06:08:39.014Z",
+    "beanId": "7f74a282-a723-4323-b0c5-14296036c52c",
+    "grindSetting": "1",
+    "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83",
+    "rating": 1,
+    "note": ""
   },
   "f2b449a7-04f1-4da6-8640-514bec9ef654": {
     "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
@@ -258,6 +263,15 @@
     "grindSetting": "1.0",
     "beanId": "7385072f-9c43-4400-bef6-325e6463a90e",
     "rating": 9,
+    "note": ""
+  },
+  "13ceaf15-c941-45aa-bcbc-653c203918d9": {
+    "beanId": "7f74a282-a723-4323-b0c5-14296036c52c",
+    "updatedAt": "2026-04-22T06:08:41.522Z",
+    "grindSetting": "1.1",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83",
+    "rating": 2,
     "note": ""
   }
 }
