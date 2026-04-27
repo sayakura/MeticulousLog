@@ -300,12 +300,14 @@
     "rating": 8,
     "grindSetting": "1.1",
     "note": "",
-    "updatedAt": "2026-04-27T17:25:16.647Z"
+    "updatedAt": "2026-04-27T17:25:28.224Z",
+    "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63"
   },
   "af7dc635-af97-4ff7-8eae-02a7df87a118": {
     "rating": 7,
     "grindSetting": "1.1",
     "note": "",
-    "updatedAt": "2026-04-27T17:25:13.565Z"
+    "updatedAt": "2026-04-27T17:25:26.672Z",
+    "beanId": "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63"
   }
 }
