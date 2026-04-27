@@ -295,5 +295,17 @@
     "updatedAt": "2026-04-23T16:38:51.809Z",
     "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915",
     "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83"
+  },
+  "47612c51-2f62-4d0e-80c3-a50410c3a4d3": {
+    "rating": 8,
+    "grindSetting": "1.1",
+    "note": "",
+    "updatedAt": "2026-04-27T17:25:16.647Z"
+  },
+  "af7dc635-af97-4ff7-8eae-02a7df87a118": {
+    "rating": 7,
+    "grindSetting": "1.1",
+    "note": "",
+    "updatedAt": "2026-04-27T17:25:13.565Z"
   }
 }
