@@ -75,5 +75,17 @@
     "userNotes": "研磨度1 9bar 最好 普普通通的咖啡味",
     "createdAt": "2026-04-22T06:07:47.985Z",
     "updatedAt": "2026-04-22T06:09:30.235Z"
+  },
+  {
+    "id": "134a74bf-0dc2-4095-af8d-a244733f3fd1",
+    "name": "Watermelon Margarita",
+    "roaster": "Black and white",
+    "roastDate": "2026-04-28",
+    "roastLevel": "light",
+    "tags": [],
+    "isDefault": false,
+    "userNotes": "0.8 is good",
+    "createdAt": "2026-05-10T19:19:52.528Z",
+    "updatedAt": "2026-05-10T19:19:52.528Z"
   }
 ]
