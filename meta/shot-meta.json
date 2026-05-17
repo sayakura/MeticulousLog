@@ -333,5 +333,11 @@
     "updatedAt": "2026-05-10T20:19:29.709Z",
     "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83",
     "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915"
+  },
+  "d27790c6-0db7-419d-91ba-1da757181e4a": {
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "updatedAt": "2026-05-17T21:01:34.833Z",
+    "basketId": "410a8cd0-ca31-44fc-8fd1-cd6b8908ce83",
+    "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915"
   }
 }
