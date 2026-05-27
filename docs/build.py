@@ -48,14 +48,22 @@ def main():
         if not data:
             continue
 
+        # Drop Fill phase — boiler filling before brew. Flow during Fill
+        # doesn't reflect extraction (sometimes 15+ ml/s on newer firmware)
+        # and stretches the chart axes / inflates Peak Flow.
+        brew = [e for e in data if not (e.get('status') or '').lower().startswith('fill')]
+        if not brew:
+            continue
+        # Re-baseline time so the chart starts at 0 instead of where Fill ended.
+        t0 = brew[0].get('time', 0)
         s_time, s_pressure, s_weight, s_flow = [], [], [], []
-        for entry in data:
-            t = entry.get('time', 0) / 1000
-            s = entry.get('shot', {})
+        for entry in brew:
+            t = (entry.get('time', 0) - t0) / 1000
+            s = entry.get('shot') or {}
             s_time.append(round(t, 2))
-            s_pressure.append(round(s.get('pressure', 0), 2))
-            s_weight.append(round(s.get('weight', 0), 2))
-            s_flow.append(round(s.get('flow', 0), 2))
+            s_pressure.append(round(s.get('pressure') or 0, 2))
+            s_weight.append(round(s.get('weight') or 0, 2))
+            s_flow.append(round(s.get('flow') or 0, 2))
 
         started_at = parse_shot_time(os.path.basename(filepath))
 
