@@ -1,6 +1,6 @@
 [
   {
-    "label": "（笑）没啥好说的",
+    "label": "S",
     "color": "#7a3b3b",
     "items": [
       "d381b1f7-7078-4fdb-b5c7-b1f3e1fe5a63",
@@ -9,7 +9,7 @@
     "between": []
   },
   {
-    "label": "顶的",
+    "label": "A",
     "color": "#7a5c3b",
     "items": [
       "6f0730c7-6f66-4a40-ae20-5e1ce5987050",
@@ -19,7 +19,7 @@
     "between": []
   },
   {
-    "label": "不孬",
+    "label": "B",
     "color": "#7a6d3b",
     "items": [
       "47057470-d287-4a5f-bbe3-b97d9309a972",
@@ -29,19 +29,19 @@
     "between": []
   },
   {
-    "label": "中药",
+    "label": "C",
     "color": "#6b7340",
     "items": [],
     "between": []
   },
   {
-    "label": "泔水",
+    "label": "D",
     "color": "#3b6b4a",
     "items": [],
     "between": []
   },
   {
-    "label": "马尿",
+    "label": "F",
     "color": "#3b5c7a",
     "items": [],
     "between": []
