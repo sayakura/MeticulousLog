@@ -348,5 +348,11 @@
     "rating": 7,
     "grindSetting": "",
     "note": ""
+  },
+  "d791cc4f-582d-4b23-8f85-4e9c4edc16ea": {
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "updatedAt": "2026-05-29T23:42:27.327Z",
+    "basketId": "3236facc-9191-459e-8cc3-11ad22e6b820",
+    "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915"
   }
 }
