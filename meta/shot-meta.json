@@ -351,14 +351,18 @@
   },
   "d791cc4f-582d-4b23-8f85-4e9c4edc16ea": {
     "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
-    "updatedAt": "2026-05-29T23:42:27.327Z",
+    "updatedAt": "2026-05-30T18:25:15.056Z",
     "basketId": "3236facc-9191-459e-8cc3-11ad22e6b820",
-    "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915"
+    "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915",
+    "grindSetting": "1.8"
   },
   "d041cd50-6d53-42a6-8f32-5d6a5efbaba6": {
     "rating": 10,
-    "grindSetting": "",
+    "grindSetting": "1.8",
     "note": "",
-    "updatedAt": "2026-05-30T18:24:47.043Z"
+    "updatedAt": "2026-05-30T18:25:19.252Z",
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "basketId": "3236facc-9191-459e-8cc3-11ad22e6b820",
+    "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915"
   }
 }
