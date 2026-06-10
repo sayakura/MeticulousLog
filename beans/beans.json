@@ -99,5 +99,17 @@
     "userNotes": "",
     "createdAt": "2026-06-10T19:06:47.149Z",
     "updatedAt": "2026-06-10T19:06:47.149Z"
+  },
+  {
+    "id": "7a905e95-8643-4f7c-a5bf-a24a154a19ff",
+    "name": "Boutet - Natural Gesha",
+    "roaster": "Black and white",
+    "roastDate": "2026-06-02",
+    "roastLevel": "light",
+    "tags": [],
+    "isDefault": false,
+    "userNotes": "Bergamot",
+    "createdAt": "2026-06-10T19:55:51.670Z",
+    "updatedAt": "2026-06-10T19:55:51.671Z"
   }
 ]
