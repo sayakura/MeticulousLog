@@ -87,5 +87,17 @@
     "userNotes": "0.8 is good",
     "createdAt": "2026-05-10T19:19:52.528Z",
     "updatedAt": "2026-05-10T19:19:52.528Z"
+  },
+  {
+    "id": "442c87ad-9d55-42af-854f-cbf265cd720c",
+    "name": " Baolian Lychee Peach",
+    "roaster": "Black and white",
+    "roastDate": "2026-06-02",
+    "roastLevel": "medium",
+    "tags": [],
+    "isDefault": false,
+    "userNotes": "",
+    "createdAt": "2026-06-10T19:06:47.149Z",
+    "updatedAt": "2026-06-10T19:06:47.149Z"
   }
 ]
