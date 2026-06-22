@@ -376,5 +376,35 @@
     "note": "",
     "doseIn": "",
     "tasteTags": []
+  },
+  "36d83c26-5ace-42a6-88da-b33609ecc0eb": {
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "basketId": "3236facc-9191-459e-8cc3-11ad22e6b820",
+    "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915",
+    "updatedAt": "2026-06-18T00:04:38.592Z"
+  },
+  "1d48db77-d8dc-475d-8e12-e9f0c8f95940": {
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "basketId": "3236facc-9191-459e-8cc3-11ad22e6b820",
+    "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915",
+    "updatedAt": "2026-06-20T17:02:46.734Z"
+  },
+  "5c09f9ed-20f9-4739-af59-d9e413b43476": {
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "basketId": "3236facc-9191-459e-8cc3-11ad22e6b820",
+    "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915",
+    "updatedAt": "2026-06-21T17:52:57.383Z"
+  },
+  "27412190-e9ab-48ac-86ee-9fdf487a0a08": {
+    "grinderId": "59068062-2a7c-4a10-8832-85641873790d",
+    "basketId": "3236facc-9191-459e-8cc3-11ad22e6b820",
+    "puckScreenId": "06516959-2bdd-44ac-ab79-cd98aec13915",
+    "updatedAt": "2026-06-22T00:47:36.135Z",
+    "beanId": "",
+    "rating": 5,
+    "grindSetting": "",
+    "note": "",
+    "doseIn": "",
+    "tasteTags": []
   }
 }
